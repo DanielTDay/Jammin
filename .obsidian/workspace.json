@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7ca3eab24b97fb",
+        "id": "2efc35fa0aa2c911",
         "type": "tabs",
         "children": [
           {
-            "id": "a58aeae68a641be4",
+            "id": "444e4f48b5a347cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Timeline/Index.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -56,20 +57,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "760662176c53d42d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "810339b29b9265d4",
@@ -85,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Timeline/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Timeline/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Timeline/Index.md"
               }
             }
           }
@@ -138,18 +131,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a58aeae68a641be4",
+  "active": "6c1fa1d4a226b896",
   "lastOpenFiles": [
-    "Monsters/Veteran (NPC).md",
-    "Monsters/Vampire Spawns.md",
-    "Monsters/Will-o-Wisp.md"
+    "Maps/Index.md",
+    "Locations/Index.md",
+    "Items/Index.md",
+    "House_Rules/Index.md",
+    "Handouts/Index.md",
+    "Calendar/Index.md",
+    "Beastiary/Index.md",
+    "5e_Wiki/Index.md",
+    "Session_Notes/Untitled.md",
+    "Player_Characters/Untitled.md"
   ]
 }
