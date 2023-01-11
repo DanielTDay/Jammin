@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Index.md",
+                "file": "Player_Characters/Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Index.md",
+                "file": "Player_Characters/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Index.md",
+                "file": "Player_Characters/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Index.md"
+                "file": "Player_Characters/Index.md"
               }
             }
           }
@@ -139,17 +139,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6c1fa1d4a226b896",
+  "active": "444e4f48b5a347cf",
   "lastOpenFiles": [
+    "Player_Characters/Deekeek_Hiqui.md",
+    "Player_Characters/Dork_Shotazit.md",
+    "Handouts/Index.md",
+    "Timeline/Index.md",
     "Maps/Index.md",
     "Locations/Index.md",
     "Items/Index.md",
     "House_Rules/Index.md",
-    "Handouts/Index.md",
     "Calendar/Index.md",
-    "Beastiary/Index.md",
-    "5e_Wiki/Index.md",
-    "Session_Notes/Untitled.md",
-    "Player_Characters/Untitled.md"
+    "Beastiary/Index.md"
   ]
 }
