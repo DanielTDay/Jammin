@@ -13,14 +13,93 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player_Characters/Index.md",
+                "file": "NPC's/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8750fd2dbcdcb034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3055a411e6f20557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Blue Alley.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae55c64f3c425ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9cab2ec641b6aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Blue Alley.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe8dccf477bbf437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "382304343c15f533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player_Characters/Pobis_Boltfull.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -44,7 +123,7 @@
             }
           },
           {
-            "id": "d22b612943b01f74",
+            "id": "11b71d15a8359a9f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player_Characters/Index.md",
+                "file": "Player_Characters/Pobis_Boltfull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +174,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player_Characters/Index.md",
+                "file": "Player_Characters/Pobis_Boltfull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "71ac825262ca3227",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -118,7 +186,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player_Characters/Index.md"
+                "file": "Player_Characters/Pobis_Boltfull.md"
+              }
+            }
+          },
+          {
+            "id": "11c323becb700a2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -131,25 +210,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "444e4f48b5a347cf",
+  "active": "382304343c15f533",
   "lastOpenFiles": [
-    "Player_Characters/Deekeek_Hiqui.md",
-    "Player_Characters/Dork_Shotazit.md",
-    "Handouts/Index.md",
-    "Timeline/Index.md",
-    "Maps/Index.md",
+    "Player_Characters/Randy Randleman.md",
+    "Session_Notes/Index.md",
+    "Session_Notes/S_001.md",
+    "Session_Notes/S_002.md",
+    "index.md",
+    "Locations/Yawning Portal.md",
+    "Locations/Blue Alley.md",
     "Locations/Index.md",
-    "Items/Index.md",
-    "House_Rules/Index.md",
-    "Calendar/Index.md",
-    "Beastiary/Index.md"
+    "Maps/Yawning Portal.md",
+    "Maps/Blue Alley.md"
   ]
 }

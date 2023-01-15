@@ -6,4 +6,4 @@
 
 [Pobis_Boltfull](Pobis_Boltfull.md)
 
-[Jourdan](Jourdan.md)
+[Randy Randleman](Randy%20Randleman.md)
