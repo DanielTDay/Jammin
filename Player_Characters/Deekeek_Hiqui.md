@@ -8,7 +8,7 @@
 
 	Lang: Aarakocra, Auran, Celestial, Common, Sylvan
 
-	Feat: Metamagic Adept
+	Feat: Duel Wielder
 
 	Prof: Acrobatics, Athletics, Performance, Religion, Survival
 

@@ -8,95 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "444e4f48b5a347cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8750fd2dbcdcb034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3055a411e6f20557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps/Blue Alley.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae55c64f3c425ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9cab2ec641b6aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Blue Alley.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe8dccf477bbf437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "382304343c15f533",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Player_Characters/attachments/pobis_boltfull.png"
+                "file": "Player_Characters/Dork_Shotazit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player_Characters/attachments/pobis_boltfull.png",
+                "file": "Player_Characters/Dork_Shotazit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player_Characters/attachments/pobis_boltfull.png",
+                "file": "Player_Characters/Dork_Shotazit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player_Characters/attachments/pobis_boltfull.png"
+                "file": "Player_Characters/Dork_Shotazit.md"
               }
             }
           },
@@ -213,17 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1fa1d4a226b896",
+  "active": "382304343c15f533",
   "lastOpenFiles": [
     "Player_Characters/Deekeek_Hiqui.md",
     "Player_Characters/Dork_Shotazit.md",
-    "Player_Characters/Pobis_Boltfull.md",
-    "Player_Characters/Index.md",
-    "Player_Characters/Ka'Chow.md",
     "NPC's/Index.md",
-    "Player_Characters/attachments/pobis_boltfull.png",
-    "Assets/Pobis_Boltfull.md",
-    "Assets/Pasted.md",
-    "index.md"
+    "Maps/Index.md",
+    "Maps/Blue Alley.md",
+    "Locations/Index.md",
+    "Locations/Blue Alley.md",
+    "index.md",
+    "Player_Characters/Ka'Chow.md",
+    "Player_Characters/Index.md"
   ]
 }

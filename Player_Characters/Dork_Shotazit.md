@@ -1,41 +1,39 @@
-**Auto-Gnome**: *Small Construct, Lawful Neutral*
+**Plasmoid**: *Medium Ooze, Chaotic Neutral*
 
-	(3) Sorcerer of the Divine Soul
+	(1) Warlock: Pact of the Genie
+	(2) Barbarian
 
-	P. Percept: 11
-	P. Investi: 11
-	P. Insight: 13
+	P. Percept: 9
+	P. Investi: 9
+	P. Insight: 9
 
-	Lang: Celestial, Common, Elvish, Gnomish
+	Lang: Abyssal, Celestial, Common, Undercommon
 
-	Feat: Metamagic Adept
+	Feat: Tavern Brawler
 
-	Prof: Arcana, History, Insight, Religion
+	Prof: Arcana, Athletics, History, Intimidation
 
-![Pobis](attachments/pobis_boltfull.png)
+![](attachments/dork_shotazit.png)
 
+![](attachments/dork2.png)
 
 ### Description
 https://www.dndbeyond.com/characters/91116630
 
-Green Gemstone Eyes
-
-Steel colored metal skin
+Purple transparent ooze with items floating inside
 
 ### Class 
-https://www.dndbeyond.com/classes/sorcerer#DivineSoul
+https://www.dndbeyond.com/classes/warlock#TheGenie
 
-Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
+https://www.dndbeyond.com/classes/barbarian
 
-A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
-
-In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
+You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 
 ### Race
-https://www.dndbeyond.com/races/1121695-autognome
+https://www.dndbeyond.com/races/1121698-plasmoid
 
-Autognomes are mechanical beings built by rock gnomes. Sometimes, because of a malfunction or a unique circumstance, an autognome becomes separated from its creator and strikes out on its own.
+Plasmoids are amorphous beings with no typical shape. In the presence of other folk, they often adopt a similar shape, but there’s little chance of mistaking a plasmoid for anything else. They consume food by osmosis, the way an amoeba does, and excrete waste through tiny pores. They breathe by absorbing oxygen through another set of pores, and their limbs are strong and flexible enough to grasp and manipulate weapons and tools. Although most plasmoids are translucent gray, they can alter their color and translucence by absorbing dyes through their pores.
 
-An autognome bears a resemblance to its creator, and most autognomes are programmed to speak and understand Gnomish. The internal components used in an autognome’s manufacture can vary wildly; one autognome might have an actual beating heart in its chest cavity, while another might be powered by stardust or intricate clockwork gears.
+Plasmoids don’t have internal organs of the usual sort. Their bodies are composed of cells, fibers, plasma-like ooze, and clusters of nerves. These nerves enable a plasmoid to detect light, heat, texture, sound, pain, and vibrations. Plasmoids can stiffen the outer layers of their bodies to maintain a humanlike shape, so they can wear clothing and accessories. They speak by forcing air out of tubular cavities that constrict to produce sound.
 
-Like gnomes, autognomes can live for centuries, typically up to 500 years.
+When plasmoids sleep, they lose their rigidity and spread out and are thus sometimes mistaken for a rock or some other feature of the environment.
