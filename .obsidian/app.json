@@ -4,8 +4,9 @@
   "showLineNumber": true,
   "spellcheck": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }

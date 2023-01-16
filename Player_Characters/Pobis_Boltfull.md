@@ -1,1 +1,41 @@
-The auto-gnome sorcerer of the divine soul is a powerful being of mystical energy. They are a combination of gnomish ingenuity and divine magic. They possess the ability to manipulate and control the elements of the natural world, as well as the spiritual realm. The auto-gnome sorcerer has a wide range of capabilities, from the mundane to the extraordinary. They can cast powerful spells to manipulate the elements, create powerful magical artifacts, and even open portals to other planes of existence. They can also use their powerful magic to heal, protect, and even destroy enemies. The auto-gnome sorcerer is a sagely figure, with a wise and knowing gaze. They often take the form of a small humanoid creature, usually with a long white beard and wearing a robe of many colors. They are often accompanied by a small, hovering mechanical construct of gnomish design. The auto-gnome sorcerer has a deep connection to the divine, and a strong connection to nature. They use their magic to protect and nurture the natural world, and to help those in need. They are a powerful force for good in the world, and they are respected and admired by most people.
+**Auto-Gnome**: *Small Construct, Lawful Neutral*
+
+	(3) Sorcerer of the Divine Soul
+
+	P. Percept: 11
+	P. Investi: 11
+	P. Insight: 13
+
+	Lang: Celestial, Common, Elvish, Gnomish
+
+	Feat: Metamagic Adept
+
+	Prof: Arcana, History, Insight, Religion
+
+![](Player_Characters/Pobis_Boltfull.png)
+
+
+### Description
+https://www.dndbeyond.com/characters/91116630
+
+Green Gemstone Eyes
+
+Steel colored metal skin
+
+### Class 
+https://www.dndbeyond.com/classes/sorcerer#DivineSoul
+
+Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
+
+A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
+
+In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
+
+### Race
+https://www.dndbeyond.com/races/1121695-autognome
+
+Autognomes are mechanical beings built by rock gnomes. Sometimes, because of a malfunction or a unique circumstance, an autognome becomes separated from its creator and strikes out on its own.
+
+An autognome bears a resemblance to its creator, and most autognomes are programmed to speak and understand Gnomish. The internal components used in an autognome’s manufacture can vary wildly; one autognome might have an actual beating heart in its chest cavity, while another might be powered by stardust or intricate clockwork gears.
+
+Like gnomes, autognomes can live for centuries, typically up to 500 years.
