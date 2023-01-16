@@ -5,7 +5,7 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showUnsupportedFiles": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true

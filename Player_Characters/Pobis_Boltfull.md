@@ -12,6 +12,8 @@
 
 	Prof: Arcana, History, Insight, Religion
 
+![](/Player_Characters/Pobis_Boltfull.png)
+
 ![](Player_Characters/Pobis_Boltfull.png)
 
 
