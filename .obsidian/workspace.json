@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player_Characters/Dork_Shotazit.md",
+                "file": "Player_Characters/Ka'Chow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player_Characters/Dork_Shotazit.md",
+                "file": "Player_Characters/Ka'Chow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player_Characters/Dork_Shotazit.md",
+                "file": "Player_Characters/Ka'Chow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player_Characters/Dork_Shotazit.md"
+                "file": "Player_Characters/Ka'Chow.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "382304343c15f533",
   "lastOpenFiles": [
-    "Player_Characters/Deekeek_Hiqui.md",
+    "Player_Characters/Randy Randleman.md",
+    "Player_Characters/Ka'Chow.md",
+    "Player_Characters/Pobis_Boltfull.md",
     "Player_Characters/Dork_Shotazit.md",
+    "Player_Characters/Deekeek_Hiqui.md",
     "NPC's/Index.md",
     "Maps/Index.md",
     "Maps/Blue Alley.md",
     "Locations/Index.md",
-    "Locations/Blue Alley.md",
-    "index.md",
-    "Player_Characters/Ka'Chow.md",
-    "Player_Characters/Index.md"
+    "Locations/Blue Alley.md"
   ]
 }

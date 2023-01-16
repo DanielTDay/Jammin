@@ -1,2 +1,35 @@
-  
-The warforged battle master is a powerful construct, crafted from metal and stone with a humanoid shape. Its face is expressionless and its body is covered in plates of thick armor, which give it a formidable presence. Its arms and legs are jointed like those of a human being, but they are made of metal and stone, and are much stronger and more resilient. It has two weapons, one a longsword and the other a heavy mace, both of which are forged from metal and mounted on its arms. The warforged battle master is a master of strategy, able to discern the best course of action in any given situation. Its strength and resilience make it a formidable opponent in combat, and its metal body gives it an almost indestructible quality. It moves quickly and is able to respond rapidly to changing conditions in battle, making it an invaluable asset to any army. The warforged battle master is a symbol of strength, courage, and prowess in battle, and is often seen as a symbol of hope and courage to those who face it. Its presence is inspiring, and its ability to fight and survive even the most difficult battles is a testament to its power and resilience.
+**Warforged**: *Medium Construct, Lawful Neutral*
+
+	(3) Battlemaster Fighter
+
+	P. Percept: 10
+	P. Investi: 11
+	P. Insight: 12
+
+	Lang: Abanasinian, Common, Elvish, Istarian
+
+	Feat: Magic Initiate (Cleric), Gunner
+
+	Prof: Athletics, Insight, Intimidation, Religion, Survival
+
+![Pobis](attachments/randy_randleson.png)
+
+
+### Description
+https://www.dndbeyond.com/characters/91116630
+
+Yellow LED Eyes
+
+Gunmetal Gray Skin, blue lines of arcane energy 
+
+Weighing in at 310 lbs
+
+### Class 
+https://www.dndbeyond.com/classes/fighter#BattleMaster
+
+Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
+
+### Race
+https://www.dndbeyond.com/races/260828-warforged
+
+The warforged were built to fight in the Last War. While the first warforged were mindless automatons, House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning.

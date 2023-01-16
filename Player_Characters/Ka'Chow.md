@@ -1,41 +1,33 @@
 **Auto-Gnome**: *Small Construct, Lawful Neutral*
 
-	(3) Sorcerer of the Divine Soul
+	(3) Artillerist Artificer
 
-	P. Percept: 11
-	P. Investi: 11
+	P. Percept: 13
+	P. Investi: 15
 	P. Insight: 13
 
-	Lang: Celestial, Common, Elvish, Gnomish
+	Lang: Common, Telepathy, Thri-kreen
 
-	Feat: Metamagic Adept
+	Feat: Keen Mind
 
-	Prof: Arcana, History, Insight, Religion
+	Prof: Insight, Investigation, Perception, Sleight of Hand
 
-![Pobis](attachments/pobis_boltfull.png)
+![Pobis](attachments/kachow.png)
 
 
 ### Description
 https://www.dndbeyond.com/characters/91116630
 
-Green Gemstone Eyes
-
-Steel colored metal skin
-
 ### Class 
-https://www.dndbeyond.com/classes/sorcerer#DivineSoul
+https://www.dndbeyond.com/classes/artificer#Artillerist
 
-Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
-
-A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
-
-In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
+An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power is valued by armies in the wars on many different worlds. And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife. The world-hopping gnome artificer Vi has been especially vocal about making things right: “It’s about time we fixed things instead of blowing them all to hell.”
 
 ### Race
-https://www.dndbeyond.com/races/1121695-autognome
+https://www.dndbeyond.com/races/1121699-thri-kreen
 
-Autognomes are mechanical beings built by rock gnomes. Sometimes, because of a malfunction or a unique circumstance, an autognome becomes separated from its creator and strikes out on its own.
+Thri-kreen have insectile features and two pairs of arms. Their bodies are encased in protective chitin. They can alter the coloration of this carapace to blend in with their natural surroundings.
 
-An autognome bears a resemblance to its creator, and most autognomes are programmed to speak and understand Gnomish. The internal components used in an autognome’s manufacture can vary wildly; one autognome might have an actual beating heart in its chest cavity, while another might be powered by stardust or intricate clockwork gears.
+Although thri-kreen don’t sleep, they do require periods of inactivity to revitalize themselves. During these periods, they are fully aware of what’s happening around them.
 
-Like gnomes, autognomes can live for centuries, typically up to 500 years.
+Thri-kreen speak by clacking their mandibles and waving their antennae, indicating to other thri-kreen what they are thinking and feeling. Other creatures find this method of communication difficult to interpret and impossible to duplicate. To interact with other folk, thri-kreen rely on a form of telepathy.
