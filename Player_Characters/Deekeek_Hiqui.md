@@ -1,2 +1,34 @@
-  
-An Aarakocra Blood Hunter is a powerful warrior who draws their strength from the magical blood within their veins. They are a hybrid of the hawk-like Aarakocra race and a Blood Hunter, a magical class devoted to mastering the power of blood. An Aarakocra Blood Hunter is a formidable fighter, combining both physical and magical prowess. They are tall and slender, with a wingspan that can reach up to 8 feet. Their feathers are usually a mix of white, grey and black, with a few other colors thrown in for good measure. They tend to wear leathers and furs for armor, and carry a variety of weapons such as bows, swords and daggers. Their Blood Hunter powers come from the magical blood within their veins, and they are able to manipulate it in a variety of ways. They can use it to heal themselves, empower their weapons, and even summon creatures from the depths of the Blood Hunter realm. An Aarakocra Blood Hunter is a force to be reckoned with, and they are often found at the front lines of battle, leading their allies to victory.
+**Aarakocra:** *Medium Bird-like Humanoid, Neutral Good*
+
+	(3) Blood Hunter: Order of the Ghost Slayer
+
+	P. Percept: 12
+	P. Investi: 12
+	P. Insight: 12
+
+	Lang: Aarakocra, Auran, Celestial, Common, Sylvan
+
+	Feat: Metamagic Adept
+
+	Prof: Acrobatics, Athletics, Performance, Religion, Survival
+
+![Pobis](/Player_Characters/attachments/deekeek_hiqui.png)
+
+### Description
+https://www.dndbeyond.com/characters/91116664
+
+Colorful Plumes of Blue Feathers
+
+White Milky Eyes
+
+### Class 
+https://www.dndbeyond.com/classes/blood-hunter#OrderoftheGhostslayer
+
+The Order of the Ghostslayer is the oldest of the blood hunter orders, its members having originally rediscovered the secrets of hemocraft and refined them for combat against the scourge of undeath. Ghostslayers seek out and study the moment of death, obsessing over the mystery of the transition from life, and the unholy power that can cause the dead to rise once more. These zealous blood hunters make it their life’s work to destroy the scourge of undeath wherever it is found, tuning their abilities to engage undead creatures and those who manipulate the necromancy that creates them.
+
+### Race
+https://www.dndbeyond.com/races/1026377-aarakocra
+
+A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters’ power over winds. Their descendants still command echoes of that power.
+
+From below, aarakocra look like large birds and thus are sometimes called birdfolk. Only when they roost on a branch or walk across the ground is their Humanoid nature clear. Standing upright, aarakocra are typically about 5 feet tall, and they have long, narrow legs that taper to sharp talons. Feathers cover their bodies—usually red, orange, yellow, brown, or gray. Their heads are also avian, often resembling those of parrots or eagles.

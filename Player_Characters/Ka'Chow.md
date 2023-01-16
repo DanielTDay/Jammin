@@ -1,1 +1,41 @@
-The Thri-kreen Artillerist Artificer is a unique and formidable figure in the multiverse. Standing at almost 8 feet tall, they are a commanding presence. They have three arms, two of which are covered in intricate tattoos. The tattoos are a combination of runes and symbols that they use to channel their magical power into their weapons. The Artillerist is garbed in an armor that is both protective and ceremonial, with a black and orange mottled pattern. This armor is made from a combination of chitin, metal, and leather, and is highly flexible and lightweight. The primary weapon of the Artillerist is a large crossbow that is usually loaded with a variety of ammunition, including bolts, pellets, and other explosives. The Artillerist is also skilled in the use of blades and clubs, and carries a longsword and a mace. The Artillerist is an expert in the magical arts, and can channel their magic into their weapons to make them even more deadly. They are also skilled in the use of alchemical concoctions, and can create powerful explosives and potions that can be used in battle. The Artillerist is a master tactician and strategist, and is
+**Auto-Gnome**: *Small Construct, Lawful Neutral*
+
+	(3) Sorcerer of the Divine Soul
+
+	P. Percept: 11
+	P. Investi: 11
+	P. Insight: 13
+
+	Lang: Celestial, Common, Elvish, Gnomish
+
+	Feat: Metamagic Adept
+
+	Prof: Arcana, History, Insight, Religion
+
+![Pobis](attachments/pobis_boltfull.png)
+
+
+### Description
+https://www.dndbeyond.com/characters/91116630
+
+Green Gemstone Eyes
+
+Steel colored metal skin
+
+### Class 
+https://www.dndbeyond.com/classes/sorcerer#DivineSoul
+
+Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
+
+A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
+
+In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
+
+### Race
+https://www.dndbeyond.com/races/1121695-autognome
+
+Autognomes are mechanical beings built by rock gnomes. Sometimes, because of a malfunction or a unique circumstance, an autognome becomes separated from its creator and strikes out on its own.
+
+An autognome bears a resemblance to its creator, and most autognomes are programmed to speak and understand Gnomish. The internal components used in an autognome’s manufacture can vary wildly; one autognome might have an actual beating heart in its chest cavity, while another might be powered by stardust or intricate clockwork gears.
+
+Like gnomes, autognomes can live for centuries, typically up to 500 years.
