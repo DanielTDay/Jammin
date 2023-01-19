@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2efc35fa0aa2c911",
+        "id": "02c27e6fbb0bd997",
         "type": "tabs",
         "children": [
           {
-            "id": "382304343c15f533",
+            "id": "2b787b6680c1c9af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9508073d9b4b7e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Spelljamming 101.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "548a25fd848724c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Wildspace.md",
+                "file": "Handouts/Spelljamming/Mega Spells.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Wildspace.md",
+                "file": "Handouts/Spelljamming/Mega Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Wildspace.md",
+                "file": "Handouts/Spelljamming/Mega Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Wildspace.md"
+                "file": "Handouts/Spelljamming/Mega Spells.md"
               }
             }
           },
@@ -164,17 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "548a25fd848724c5",
+  "active": "2b787b6680c1c9af",
   "lastOpenFiles": [
+    "Handouts/Spelljamming/Ship Weapons.md",
+    "Handouts/Spelljamming/Mega Spells.md",
+    "Handouts/Spelljamming/Crew.md",
+    "Handouts/Wildspace.md",
     "Handouts/Spelljamming 101.md",
-    "Handouts/Index.md",
     "Handouts/attachments/crew_costs.png",
-    "Calendar/Index.md",
-    "Player_Characters/Ka'Chow.md",
-    "Player_Characters/Randy Randleman.md",
-    "Player_Characters/Pobis_Boltfull.md",
-    "Player_Characters/Dork_Shotazit.md",
-    "Player_Characters/Deekeek_Hiqui.md",
-    "NPC's/Index.md"
+    "Items/Weapons.md",
+    "Items/Index.md",
+    "Handouts/Index.md",
+    "Session_Notes/Weapons.md"
   ]
 }
