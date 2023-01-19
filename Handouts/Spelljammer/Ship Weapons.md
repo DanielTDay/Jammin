@@ -31,7 +31,9 @@ Crew represents how many crew members in excess of a ship’s minimum crew requi
 # Ship Weapons
 
 ## Ballistae
-	These top loaded siege weapons look much like a large crossbow. These ballistae are mounted with a reinforced central pivot allowing it to aim in any direction. The heavy version makes use of a two-point anchor, but rests on manually rotating platform that supporting crew can turn to help aim.
+!!!
+These top loaded siege weapons look much like a large crossbow. These ballistae are mounted with a reinforced central pivot allowing it to aim in any direction. The heavy version makes use of a two-point anchor, but rests on manually rotating platform that supporting crew can turn to help aim.
+!!!
 
 ### Light Ballista 
 Small 1,000gp 2d4 mega piercing Ammunition (2,500/7,500 ft.), crew 1
@@ -43,7 +45,9 @@ Medium 2,000gp 2d6 mega piercing Ammunition (3,000/9,000 ft.), crew 2
 Large 4,000gp 2d8 mega piercing Ammunition (3,500/10,500 ft.), crew 3
 
 ## Catapults
-	A classic siege weapon that uses stored up tension in a single limb to release some projectile at high speeds toward a target. Many traditional catapults have lockable wheels so they can be moved and fired, but the wildjammer variant is built into the hardpoint itself. Although cannons tend to have greater damage and range, they are unusable in the phlogiston and they have a risk to backfire. As a result, catapults are still a favorite weapon for wildjammers.
+!!!
+A classic siege weapon that uses stored up tension in a single limb to release some projectile at high speeds toward a target. Many traditional catapults have lockable wheels so they can be moved and fired, but the wildjammer variant is built into the hardpoint itself. Although cannons tend to have greater damage and range, they are unusable in the phlogiston and they have a risk to backfire. As a result, catapults are still a favorite weapon for wildjammers.
+!!!
 
 ### Light Catapult
 Small1,000gp 3d4 mega bludgeoning Ammunition (3,500/10,500 ft.), fixed, crew 1
@@ -58,26 +62,34 @@ Large 4,000gp 3d8 mega bludgeoning Ammunition (4,500/13,500 ft.), fixed, crew 5
 ### Carronade
 Small 2,000gp 3d6 mega bludgeoning Ammunition (2,500/7,500 ft.), fixed, loading, backfire 1, crew 2
 
-	These short barreled cannons were among the first gunpowder based cannons to be built for wildjammer use. These cannons have a smoothbore design rather than any rifling, resulting in them being shorter ranged than other cannons. Nevertheless, its efficiency at short range has resulted in the carronade still having a place in the market.
+!!!
+These short barreled cannons were among the first gunpowder based cannons to be built for wildjammer use. These cannons have a smoothbore design rather than any rifling, resulting in them being shorter ranged than other cannons. Nevertheless, its efficiency at short range has resulted in the carronade still having a place in the market.
+!!!
 
 ### 12-Pounder Long Gun
 Medium 4,000gp 3d8 mega bludgeoning Ammunition (5,000/15,000 ft.), fixed, loading, backfire 2, crew 4
 
-	These cannons are the most common type found in space. With long barrels with rifling, their range and power is a force to be reckoned with. Nevertheless, gunpowder carries danger to those sailing in the Phlogiston and always has a chance to backfire.
+!!!
+These cannons are the most common type found in space. With long barrels with rifling, their range and power is a force to be reckoned with. Nevertheless, gunpowder carries danger to those sailing in the Phlogiston and always has a chance to backfire.
+!!!
 
 ### 24-Pounder Long Gun
 Large 6,000gp 3d10 mega bludgeoning Ammunition (6,000/18,000 ft.), fixed, loading, backfire 3, crew 6
 
-	These cannons are the most common type found in space. With long barrels with rifling, their range and power is a force to be reckoned with. Nevertheless, gunpowder carries danger to those sailing in the Phlogiston and always has a chance to backfire.
+!!!
+These cannons are the most common type found in space. With long barrels with rifling, their range and power is a force to be reckoned with. Nevertheless, gunpowder carries danger to those sailing in the Phlogiston and always has a chance to backfire.
+!!!
 
 ### 36-Pounder Long Gun
 Large 10,000gp 4d20 mega bludgeoning Ammunition (6,000/18,000 ft.), fixed, overheat, backfire 4, crew 8
 
-	This ridiculously over-sized cannon is a favorite of the gunpowder obsessed giff. The large amount of gunpowder used per shot results in the weapon overheating each time it is fired.
-
+!!!
+This ridiculously over-sized cannon is a favorite of the gunpowder obsessed giff. The large amount of gunpowder used per shot results in the weapon overheating each time it is fired.
+!!!
 ## Dual Ballistae
-	A dual ballista is a specialized ballista crafted to have two flight grooves for loading and firing two bolts at the same time. This requires a more substantial hardpoint mount, causing the weapon to become fixed. Additionally, firing two bolts at the same time makes it difficult to aim at long range.
-
+!!!
+A dual ballista is a specialized ballista crafted to have two flight grooves for loading and firing two bolts at the same time. This requires a more substantial hardpoint mount, causing the weapon to become fixed. Additionally, firing two bolts at the same time makes it difficult to aim at long range.
+!!!
 ### Light Dual Ballista
 Small 2,000gp 2d4 mega piercing Ammunition (2,500/7,500 ft.), automatic, fixed, crew 2
 
@@ -91,28 +103,38 @@ Large 8,000gp 2d8 mega piercing Ammunition (3,500/10,500 ft.), automatic, fixed,
 ### Helmseeker Launcher
 Medium 3,000gp 3d10 mega fire Deployable (4,500 ft.), fixed, loading, special, crew 4
 
-	The helmseeker is a special type of explosive device designed to track the magical signature of a helm. It can track any helm capable of accelerating to jamming speeds. When deployed, you choose a wildjammer within 10,000 feet of you. After your turn, the helmseeker moves at a speed of 4,500 ft. (90º) toward the target. If it hasn’t hit its target after 3 rounds of moving, the seeking magic is depleted and it loses all maneuverability, causing it to fly aimlessly until it hits something. Aether Charge Launch
+!!!
+The helmseeker is a special type of explosive device designed to track the magical signature of a helm. It can track any helm capable of accelerating to jamming speeds. When deployed, you choose a wildjammer within 10,000 feet of you. After your turn, the helmseeker moves at a speed of 4,500 ft. (90º) toward the target. If it hasn’t hit its target after 3 rounds of moving, the seeking magic is depleted and it loses all maneuverability, causing it to fly aimlessly until it hits something. Aether Charge Launch
+!!!
 
 ### Aether Charge Launcher
 Medium 5,000gp 6d8 mega fire Deployable (0 ft.), fixed, loading, special, crew 4
 
-	This mine launcher is designed to place explosive devices that are sensitive to movements in the aether. If a ship or mega creature moves within 1,000 feet of it, the aether charge activates and you make a ship weapon attack against the target to hit them with the explosive charge.
+!!!
+This mine launcher is designed to place explosive devices that are sensitive to movements in the aether. If a ship or mega creature moves within 1,000 feet of it, the aether charge activates and you make a ship weapon attack against the target to hit them with the explosive charge.
+!!!
 
 ## Special
 ### Fire Projector
 Small 2,000gp 3d4 mega fire Ammunition (1,000/3,000 ft.), fixed, special, crew 1
 
-	This small cannon consists of a series of tubes that pump a special chemical compound that ignites into flame when it touches air. Unlike splintered wood and broken hull, damage from a fire projector is not as easy to quickly patch. As a result, this weapon deals double damage to bulwark point, more easily breaking it and dealing lasting damage to a ship’s hull.
+!!!
+This small cannon consists of a series of tubes that pump a special chemical compound that ignites into flame when it touches air. Unlike splintered wood and broken hull, damage from a fire projector is not as easy to quickly patch. As a result, this weapon deals double damage to bulwark point, more easily breaking it and dealing lasting damage to a ship’s hull.
+!!!
 
 ### Grappling Ballista
 Small 2,000gp 1d4 mega piercing Ammunition (1,500/4,500 ft.), special, crew 2
 
-	A grappling ballista is a specially designed ballista meant to fire a bolt that embeds into the side of a ship and aids in a ship grapple. When this weapon deals damage to the hull points of another ship, your ship’s Captain has advantage on ship grapple checks against the target. This advantage is lost when the ropes are cut or when the target ship moves more than 1,500 feet away from your ship. 
- 
+!!!
+A grappling ballista is a specially designed ballista meant to fire a bolt that embeds into the side of a ship and aids in a ship grapple. When this weapon deals damage to the hull points of another ship, your ship’s Captain has advantage on ship grapple checks against the target. This advantage is lost when the ropes are cut or when the target ship moves more than 1,500 feet away from your ship. 
+!!!
+
 ### Matick’s Cannon
 Medium 5,000gp 2d4+2 mega force Ammunition (2,500/7,500 ft.), automatic, special, crew 
 
-	The Matick’s Cannon is a special kind of ship weapon. By using the magic of a spellcaster Gunner, the cannon enchants and propels a small, smooth stone that turns into bolts of brilliant energy, not unlike a magic missile. To use this ship weapon, a Gunner must have the spellcasting or pact magic feature. When using this weapon to make ship weapon attacks, the Gunner uses their spellcasting ability modifier instead of Strength or Dexterity for the attack roll. Additionally, if the spellcaster doesn’t have the Extra Attack feature but does have access to 3rd level spell slots, they are considered to have the Extra Attack feature for attacks with this ship weapon
+!!!
+The Matick’s Cannon is a special kind of ship weapon. By using the magic of a spellcaster Gunner, the cannon enchants and propels a small, smooth stone that turns into bolts of brilliant energy, not unlike a magic missile. To use this ship weapon, a Gunner must have the spellcasting or pact magic feature. When using this weapon to make ship weapon attacks, the Gunner uses their spellcasting ability modifier instead of Strength or Dexterity for the attack roll. Additionally, if the spellcaster doesn’t have the Extra Attack feature but does have access to 3rd level spell slots, they are considered to have the Extra Attack feature for attacks with this ship weapon
+!!!
 
 # Ammunition General Costs
 ## Ammunition

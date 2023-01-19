@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74d2ce274294d56d",
+        "id": "c9ecea4fbacf4eba",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf8f15786414bdf",
+            "id": "278a76a860ca92c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "d22b612943b01f74",
+            "id": "11b71d15a8359a9f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 449.5
   },
   "right": {
     "id": "810339b29b9265d4",
@@ -95,7 +95,15 @@
             }
           },
           {
-            "id": "71ac825262ca3227",
+            "id": "1df76fb7b16f5276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "11c323becb700a2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -103,14 +111,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "1df76fb7b16f5276",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -122,23 +122,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7bf8f15786414bdf",
+  "active": "278a76a860ca92c1",
   "lastOpenFiles": [
-    "Logs/S_002.md",
-    "The Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
-    "index.md",
-    "Beastiary/Bonewheel Skeleton.md",
-    "Beastiary/Mephit.md",
-    "Logs/S_001.md",
-    "Beastiary/Troll.md",
-    "Ship/Your Ship.md",
-    "The Universe/Index.md",
-    "Beastiary/Shadow Snake.md"
+    "Handouts/Spelljammer/Ship Weapons.md",
+    "Handouts/Spelljammer/Spelljammer Weapons.md",
+    "Handouts/Mega Spells.md",
+    "Handouts/Spelljammer/Crew.md",
+    "Handouts/Ship Mods.md",
+    "Handouts/Ship Upgrades.md",
+    "Handouts/Ship Weapons.md",
+    "Handouts/Spelljamming/Index.md",
+    "Handouts/Spelljamming/Ship Upgrades.md",
+    "Handouts/Spelljamming/Ship Mods.md"
   ]
 }
