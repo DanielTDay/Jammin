@@ -9,5 +9,6 @@
   "showUnsupportedFiles": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "attachmentFolderPath": "Session_Notes/attachments"
+  "attachmentFolderPath": "Session_Notes/attachments",
+  "readableLineLength": false
 }
