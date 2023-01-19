@@ -9,14 +9,11 @@ All wildjammers come with a pantry that can support the maximum crew count of th
 
 # Costs
 
-## Cost per 1 (Day/Month) 
 
-Green Crew 1.5gp / 45gp 
-
-Veteran Crew 3gp / 90gp 
-
-Mercenaries 5gp / 150gp 
-
-Giff Mercenaries 6.5gp / 195gp 
-
-Hurwaeti Mercenaries 8gp / 240gp
+Name   | Day | Month 
+---    | ---  | ---
+Green Crew | 1.5gp | 45gp
+Blue Crew | 3gp | 90gp
+Mercenaries | 5gp | 250gp
+Giff Crew | 6.5gp | 295gp
+Hurwaeti Crew | 8gp | 240gp

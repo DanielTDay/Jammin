@@ -11,11 +11,30 @@
             "id": "278a76a860ca92c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Spelljammer/Spelljammer Weapons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d8374467ea86576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Spelljammer/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Handouts/Spelljammer/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Handouts/Spelljammer/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Handouts/Spelljammer/Untitled.md"
+              }
             }
           },
           {
@@ -112,33 +135,42 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ffcf4205f43dbe38",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "278a76a860ca92c1",
+  "active": "4d8374467ea86576",
   "lastOpenFiles": [
-    "Handouts/Spelljammer/Ship Weapons.md",
     "Handouts/Spelljammer/Spelljammer Weapons.md",
-    "Handouts/Mega Spells.md",
+    "Handouts/Spelljammer/Ship Weapons.md",
     "Handouts/Spelljammer/Crew.md",
+    "Handouts/Spelljammer/Mega Spells.md",
+    "Handouts/Spelljammer/Ship Mods.md",
+    "Handouts/Spelljammer/Ship Upgrades.md",
+    "Handouts/Mega Spells.md",
     "Handouts/Ship Mods.md",
     "Handouts/Ship Upgrades.md",
-    "Handouts/Ship Weapons.md",
-    "Handouts/Spelljamming/Index.md",
-    "Handouts/Spelljamming/Ship Upgrades.md",
-    "Handouts/Spelljamming/Ship Mods.md"
+    "Handouts/Ship Weapons.md"
   ]
 }

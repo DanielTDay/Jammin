@@ -1,3 +1,36 @@
+| Weapon Type        | Cost   |
+| ------------------ | ------ |
+| **Ballistae**          |        |
+| Light              | 2,000  |
+| Medium             | 2,000  |
+| Heavy              | 4,000  |
+|                    |        |
+| **Catapults**          |        |
+| Light              | 1,000  |
+| Medium             | 2,000  |
+| Heavy              | 4,000  |
+|                    |        |
+| **Cannons**            |        |
+| Carronade          | 2,000  |
+| Small              | 4,000  |
+| Medium             | 6,000  |
+| Large              | 10,000 |
+|                    |        |
+| **Duel** **Ballistae**     |        |
+| Small              | 2,000  |
+| Medium             | 4,000  |
+| Large              | 8,000  |
+|                    |        |
+| **Deployables**        |        |
+| Heamseeker         | 3,000  |
+| Aether Charge      | 5,000  |
+|                    |        |
+| **Special**            |        |
+| Fire Projector     | 2,000  |
+| Grappling Ballista | 2,000  |
+| Matick's Cannon    | 5,000       |
+
+
 # Weapon Properties
 
 ## Automatic.
@@ -138,30 +171,20 @@ The Matick’s Cannon is a special kind of ship weapon. By using the magic of a 
 
 # Ammunition General Costs
 ## Ammunition
-(x1 / x20) (x1/ x20) 
 
-Ballista Bolts 5gp / 100gp 0.02 tons / 0.4 tons 
+| Type            | Cost (x1/x20) | Weight (x1/x20) |
+| --------------- | ------------- | --------------- |
+| Ballista Bolts  | 5/100         | .02/.04         |
+| Catapult Stones | 5/100         | .05/1           |
+| Cannonballs     | 20/400        | .05/1           |
+| Fire Projector  | 0/100         | .02/.4          |
+| Matik           | 2.5/50        | .01/.2          |
+| Alchemist Fire  | 25/500        | .04/.8          |
+| Chainshot       | 100/2000      | .06/1.2         |
+| Helmshackle     | 50/1000       | .03/.6          |
 
-Catapult Stones 5gp / 100gp 0.05 tons / 1 ton 
-
-Cannonballs 20gp / 400gp 0.05 tons / 1 ton 
-
-Fire Projector Cartridge N/A / 100gp 0.02 tons / 0.4 tons 
-
-Matick’s Cannon Pellets 2.5gp / 50gp 0.01 tons / 0.2 tons 
-
-## Deployables
-(x1 / x5) (x1/ x5) 
-
-Helmseeker 75gp / 375gp 0.2 tons / 1 ton 
-
-Aether Charge 250gp / 1,250gp 0.5 tons / 2.5 tons 
-
-## Special Ammunition
-(x1 / x20) (x1/ x20) 
-
-Alchemist’s Fire Canister 25gp / 500gp 0.04 tons / 0.8 tons 
-
-Chainshot 100gp / 2,000gp 0.06 tons / 1.2 tons 
-
-Helmshackle Bolts 50gp / 1,000gp 0.03 tons / 0.6 tons
+## Deployable
+| Type          | Cost (x1/x5) | Weight (x1/x5) |
+| ------------- | ------------ | -------------- |
+| Healmseeker   | 75/375       | .2/1           |
+| Aether Charge | 250/1250     | .5/2.5         |
