@@ -1,3 +1,0 @@
-Upgrades
-Modules
-Foremodules
