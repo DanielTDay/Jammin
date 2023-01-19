@@ -224,22 +224,122 @@ You know instantly the nearest portal through the shell, either in or out of the
 ## 3rd Level
 
 ### AIRSPHERE
-3rd-level conjuration Casting Time: 1 action Range: 60 feet Components:V, S, M (a small crystal or glass sphere with air in it) Duration: Concentration, up to 1 minute You create a mobile 20-foot radius sphere of fresh, breathable air identical to the air of your home world around you. For the duration, the air retains its spherical shape and pushes back any air or liquid. When this spell ends, the air continues to exist but it begins to follow natural laws again. While concentrating on the sphere, the caster can move the sphere up to 90 feet as a bonus action. When you begin your turn with the sphere outside of the spell's range, concentration is broken and the air starts to obey natural laws again. Classes: Bard, Cleric, Druid, Ranger, Wizard 
+3rd-level conjuration 
+
+Casting Time: 1 action 
+
+Range: 60 feet 
+
+Components:V, S, M (a small crystal or glass sphere with air in it) 
+
+Duration: Concentration, up to 1 minute 
+
+Classes: Bard, Cleric, Druid, Ranger, Wizard
+
+!!!
+You create a mobile 20-foot radius sphere of fresh, breathable air identical to the air of your home world around you. For the duration, the air retains its spherical shape and pushes back any air or liquid. When this spell ends, the air continues to exist but it begins to follow natural laws again. While concentrating on the sphere, the caster can move the sphere up to 90 feet as a bonus action. When you begin your turn with the sphere outside of the spell's range, concentration is broken and the air starts to obey natural laws again. 
+!!! 
 
 ### CHILL FIRE
-3rd-level transmutation Casting Time: 1 action Range: 30 feet Components:V, S, M (a sliver of glass or ice) Duration: Concentration, up to 1 minute When cast while in the phlogiston, the flammable and explosive properties of the phlogiston are repressed in a 30 foot radius sphere from a point you can see. Fire and explosions do normal damage while in this place and do not backlash upon the spellcaster any more than it would in wildspace. If any fire extends beyond the range of this spell, it backlashes as normal. Classes: Druid, Sorcerer, Wizard 
+3rd-level transmutation 
+
+Casting Time: 1 action 
+
+Range: 30 feet 
+
+Components:V, S, M (a sliver of glass or ice) 
+
+Duration: Concentration, up to 1 minute 
+
+Classes: Druid, Sorcerer, Wizard
+
+!!!
+When cast while in the phlogiston, the flammable and explosive properties of the phlogiston are repressed in a 30 foot radius sphere from a point you can see. Fire and explosions do normal damage while in this place and do not backlash upon the spellcaster any more than it would in wildspace. If any fire extends beyond the range of this spell, it backlashes as normal.
+!!! 
 
 ### CONJURE BALLISTA
-3rd-level conjuration (mega) Casting Time: 1 action Range: Self Components:V, S, M (a miniature ballista bolt) Duration: Concentration, up to 1 minute You conjure up a magical ballista aboard your wildjammer. This ballista has the same damage and properties of a Heavy Ballista, except that it deals mega force damage instead of mega piercing and it doesn’t require any crew to help operate it. You or any Gunner can operate this as a normal ship weapon. This spell doesn’t use up a hardpoint slot, abut a ship can only have one conjured weapon aboard at a time. Classes: Artificer, Sorcerer, Warlock, Wizard 
+3rd-level conjuration (mega) 
+
+Casting Time: 1 action 
+
+Range: Self 
+
+Components:V, S, M (a miniature ballista bolt) 
+
+Duration: Concentration, up to 1 minute 
+
+Classes: Artificer, Sorcerer, Warlock, Wizard
+
+!!!
+You conjure up a magical ballista aboard your wildjammer. This ballista has the same damage and properties of a Heavy Ballista, except that it deals mega force damage instead of mega piercing and it doesn’t require any crew to help operate it. You or any Gunner can operate this as a normal ship weapon. This spell doesn’t use up a hardpoint slot, abut a ship can only have one conjured weapon aboard at a time.
+!!! 
 
 ### HOLD HELM
-3rd-level enchantment (mega) Casting Time: 1 action Range: 5,000 feet Components:V, S, M (a small, straight piece of thick wood) Duration: Concentration, up to 1 minute Choose a wildjammer that you can see within range. The target wildjammer's Helmsman must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of each of their turns, the target can make another Wisdom saving throw. On a success, the spell ends. Classes: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard 
+3rd-level enchantment (mega) 
+
+Casting Time: 1 action 
+
+Range: 5,000 feet 
+
+Components:V, S, M (a small, straight piece of thick wood) 
+
+Duration: Concentration, up to 1 minute 
+
+Classes: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+
+!!!
+Choose a wildjammer that you can see within range. The target wildjammer's Helmsman must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of each of their turns, the target can make another Wisdom saving throw. On a success, the spell ends.
+!!! 
 
 ### MELF'S METEORS
-3rd-level evocation (mega) Casting Time: 1 action Range: 10,000 feet Components:V, S, M (niter, sulfur, and pine tar formed into a bead) Duration: Instantaneous You hurl a cluster of meteors at a point you choose within range. Each mega creature and Helmsman of a wildjammer within a 1,000-foot radius sphere must make a Dexterity saving throw. A target takes 8d6 mega bludgeoning damage on a failed save, or half as much damage on a successful one. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 mega bludgeoning damage for each spell slot above 3rd. Classes: Sorcerer, Wizard 
+3rd-level evocation (mega) 
+
+Casting Time: 1 action 
+
+Range: 10,000 feet 
+
+Components:V, S, M (niter, sulfur, and pine tar formed into a bead) 
+
+Duration: Instantaneous 
+
+Classes: Sorcerer, Wizard 
+
+!!!
+You hurl a cluster of meteors at a point you choose within range. Each mega creature and Helmsman of a wildjammer within a 1,000-foot radius sphere must make a Dexterity saving throw. A target takes 8d6 mega bludgeoning damage on a failed save, or half as much damage on a successful one. 
+
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 mega bludgeoning damage for each spell slot above 3rd.
+!!!
 
 ### REPAIR HULL
-3rd-level transmutation Casting Time: 10 minutes Range: Touch Components:V Duration: Instantaneous This spell repairs damage done directly to the hull of a wildjammer that you touch as you cast this spell. You repair the target wildjammer for 2d8 hull points. A wildjammer can’t be repaired by this spell more than once per day. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the amount of hull points you repair is increased by 1d8 for each spell slot above 3rd . Classes: Artificer, Cleric, Druid, Wizard 
+3rd-level transmutation 
+
+Casting Time: 10 minutes 
+
+Range: Touch Components:V 
+
+Duration: Instantaneous 
+
+Classes: Artificer, Cleric, Druid, Wizard
+
+!!!
+This spell repairs damage done directly to the hull of a wildjammer that you touch as you cast this spell. You repair the target wildjammer for 2d8 hull points. A wildjammer can’t be repaired by this spell more than once per day. 
+
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the amount of hull points you repair is increased by 1d8 for each spell slot above 3rd .
+!!! 
 
 ### STABLE GRAVITY
-3rd-level transmutation (mega) Casting Time: 1 action Range: 500 feet Components:V, S, M (a small gyroscope) Duration: Concentration, up to 1 minute You create a stable bubble of gravity around a wildjammer or mega creature within range. For the duration, that wildjammer or mega creature's gravity field isn't nullified by that of a larger source. This spell is commonly used to escape from the gravity of larger wildjammers or mega creatures. Classes: Artificer, Cleric, Druid, Sorcerer, Wizard
+3rd-level transmutation (mega) 
+
+Casting Time: 1 action 
+
+Range: 500 feet 
+
+Components:V, S, M (a small gyroscope) 
+
+Duration: Concentration, up to 1 minute 
+
+Classes: Artificer, Cleric, Druid, Sorcerer, Wizard
+
+!!!
+You create a stable bubble of gravity around a wildjammer or mega creature within range. For the duration, that wildjammer or mega creature's gravity field isn't nullified by that of a larger source. This spell is commonly used to escape from the gravity of larger wildjammers or mega creatures.
+!!!

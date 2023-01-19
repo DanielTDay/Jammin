@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f48a302a3392c7eb",
+        "id": "9e8d39344caa0291",
         "type": "tabs",
         "children": [
           {
-            "id": "e21b71b73ae5efcf",
+            "id": "7302ffab5f02b3be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Mega Spells.md",
+                "file": "Handouts/Spelljammer/Mega Spells.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "11b71d15a8359a9f",
+            "id": "d22b612943b01f74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Mega Spells.md",
+                "file": "Handouts/Spelljammer/Mega Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +95,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Mega Spells.md",
+                "file": "Handouts/Spelljammer/Mega Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71ac825262ca3227",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -107,18 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Mega Spells.md"
-              }
-            }
-          },
-          {
-            "id": "11c323becb700a2d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "Handouts/Spelljammer/Mega Spells.md"
               }
             }
           }
@@ -131,23 +131,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
     }
   },
-  "active": "e21b71b73ae5efcf",
+  "active": "6c1fa1d4a226b896",
   "lastOpenFiles": [
-    "Handouts/Spelljammer/Crew.md",
-    "Handouts/Ship Mods.md",
-    "Handouts/Ship Upgrades.md",
-    "Handouts/Ship Weapons.md",
-    "Handouts/Mega Spells.md",
-    "Handouts/Spelljamming/Index.md",
-    "Handouts/Spelljamming/Ship Upgrades.md",
-    "Handouts/Spelljamming/Ship Mods.md",
-    "Handouts/Spelljamming/Mega Spells.md",
-    "Handouts/Spelljamming/Ship Weapons.md"
+    "Handouts/Spelljammer/Ship Mods.md",
+    "Handouts/Spelljammer/Ship Upgrades.md",
+    "Handouts/Spelljammer/Ship Weapons.md",
+    "Handouts/Spelljammer/Mega Spells.md",
+    "Player_Characters/Index.md",
+    "Player_Characters/Deekeek_Hiqui.md",
+    "Player_Characters/Dork_Shotazit.md",
+    "Handouts/Index.md",
+    "Timeline/Index.md",
+    "Maps/Index.md"
   ]
 }
