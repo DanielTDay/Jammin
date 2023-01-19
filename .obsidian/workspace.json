@@ -11,8 +11,13 @@
             "id": "e21b71b73ae5efcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Mega Spells.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Handouts/Mega Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Handouts/Mega Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Handouts/Mega Spells.md"
+              }
             }
           },
           {
@@ -130,6 +139,7 @@
   },
   "active": "e21b71b73ae5efcf",
   "lastOpenFiles": [
+    "Handouts/Spelljammer/Crew.md",
     "Handouts/Ship Mods.md",
     "Handouts/Ship Upgrades.md",
     "Handouts/Ship Weapons.md",
@@ -138,7 +148,6 @@
     "Handouts/Spelljamming/Ship Upgrades.md",
     "Handouts/Spelljamming/Ship Mods.md",
     "Handouts/Spelljamming/Mega Spells.md",
-    "Handouts/Spelljamming/Ship Weapons.md",
-    "Handouts/Spelljamming/Crew.md"
+    "Handouts/Spelljamming/Ship Weapons.md"
   ]
 }

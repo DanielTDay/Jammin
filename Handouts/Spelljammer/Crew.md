@@ -1,3 +1,4 @@
+# Crew 
 Green crew are new sailors getting their footing. They are not combat ready and basically just do their job to keep the ship moving. In combat, they will act purely in self-defense, seeking to flee and only fight if they are backed into a corner. A party can’t depend upon green crew to help in a fight or defend the ship while away.
 
 They will upgrade to a Veteran crew after a year of sailing and then can help defend.
