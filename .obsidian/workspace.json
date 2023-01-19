@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34b8a71f40aa9bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Spelljamming/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Spelljamming/Ship Upgrades.md",
+                "file": "Handouts/Spelljamming/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Spelljamming/Ship Upgrades.md",
+                "file": "Handouts/Spelljamming/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Spelljamming/Ship Upgrades.md"
+                "file": "Handouts/Spelljamming/Index.md"
               }
             }
           },
@@ -164,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36fe75fb4a0598e2",
+  "active": "34b8a71f40aa9bae",
   "lastOpenFiles": [
+    "Handouts/Spelljamming/Ship Upgrades.md",
     "Handouts/Spelljamming/Ship Mods.md",
     "Handouts/Spelljamming/Mega Spells.md",
     "Handouts/Spelljamming/Ship Weapons.md",
@@ -174,7 +188,6 @@
     "Handouts/Spelljamming 101.md",
     "Handouts/attachments/crew_costs.png",
     "Items/Weapons.md",
-    "Items/Index.md",
-    "Handouts/Index.md"
+    "Items/Index.md"
   ]
 }
