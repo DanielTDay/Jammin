@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "103be4f09045a74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Spelljamming/Ship Mods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36fe75fb4a0598e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Spelljamming/Ship Upgrades.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Spelljamming/Mega Spells.md",
+                "file": "Handouts/Spelljamming/Ship Upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Spelljamming/Mega Spells.md",
+                "file": "Handouts/Spelljamming/Ship Upgrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Spelljamming/Mega Spells.md"
+                "file": "Handouts/Spelljamming/Ship Upgrades.md"
               }
             }
           },
@@ -137,17 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b787b6680c1c9af",
+  "active": "36fe75fb4a0598e2",
   "lastOpenFiles": [
-    "Handouts/Spelljamming/Ship Weapons.md",
+    "Handouts/Spelljamming/Ship Mods.md",
     "Handouts/Spelljamming/Mega Spells.md",
+    "Handouts/Spelljamming/Ship Weapons.md",
     "Handouts/Spelljamming/Crew.md",
     "Handouts/Wildspace.md",
     "Handouts/Spelljamming 101.md",
     "Handouts/attachments/crew_costs.png",
     "Items/Weapons.md",
     "Items/Index.md",
-    "Handouts/Index.md",
-    "Session_Notes/Weapons.md"
+    "Handouts/Index.md"
   ]
 }
