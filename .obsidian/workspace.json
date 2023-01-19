@@ -13,14 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Spelljammer/Mega Spells.md",
+                "file": "Logs/S_002.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f032dfe759f133d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6f78039d16047cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cb20e97c6376759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beastiary/Bonewheel Skeleton.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae9c2effd16c4ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9312c71e9ab84b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ship/Your Ship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -62,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "right": {
     "id": "810339b29b9265d4",
@@ -78,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Spelljammer/Mega Spells.md",
+                "file": "Ship/Your Ship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Spelljammer/Mega Spells.md",
+                "file": "Ship/Your Ship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Spelljammer/Mega Spells.md"
+                "file": "Ship/Your Ship.md"
               }
             }
           }
@@ -139,15 +205,15 @@
   },
   "active": "6c1fa1d4a226b896",
   "lastOpenFiles": [
-    "Handouts/Spelljammer/Ship Mods.md",
-    "Handouts/Spelljammer/Ship Upgrades.md",
-    "Handouts/Spelljammer/Ship Weapons.md",
-    "Handouts/Spelljammer/Mega Spells.md",
-    "Player_Characters/Index.md",
-    "Player_Characters/Deekeek_Hiqui.md",
-    "Player_Characters/Dork_Shotazit.md",
-    "Handouts/Index.md",
-    "Timeline/Index.md",
-    "Maps/Index.md"
+    "index.md",
+    "The Universe/Index.md",
+    "Beastiary/Shadow Snake.md",
+    "Beastiary/Bonewheel Skeleton.md",
+    "Calendar.md",
+    "The Universe/Realmspace/Toril/Waterdeep/Blue Alley.md",
+    "The Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
+    "Logs/S_002.md",
+    "Logs/S_001.md",
+    "Logs/Index.md"
   ]
 }
