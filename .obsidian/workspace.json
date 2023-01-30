@@ -180,9 +180,12 @@
             "id": "f2f3a9699dc6b55f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05_Your_Ship/attachments/theship.pdf"
+                "file": "05_Your_Ship/Combat/Mega Spells.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -255,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Your_Ship/attachments/theship.pdf",
+                "file": "05_Your_Ship/Combat/Mega Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Your_Ship/attachments/theship.pdf",
+                "file": "05_Your_Ship/Combat/Mega Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Your_Ship/attachments/theship.pdf"
+                "file": "05_Your_Ship/Combat/Mega Spells.md"
               }
             }
           },
@@ -324,17 +327,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1fa1d4a226b896",
+  "active": "f2f3a9699dc6b55f",
   "lastOpenFiles": [
-    "05_Your_Ship/Index.md",
-    "05_Your_Ship/attachments/theship.pdf",
-    "01_NPCiary/The Rock of Bral/Prince Andru.md",
-    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Mirt.md",
-    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
-    "01_NPCiary/attachments/durnan.png",
-    "01_NPCiary/attachments/mirt.png",
-    "01_NPCiary/attachments/andru.png",
-    "00_Beastiary/Minor/Troll.md",
-    "00_Beastiary/Minor/Shadow Snake.md"
+    "05_Your_Ship/Combat/Bridge Crew Roles/Helmsman.md",
+    "05_Your_Ship/Combat/Bridge Crew Roles/Gunner.md",
+    "05_Your_Ship/Combat/Bridge Crew Roles/Fighter Helmsman.md",
+    "05_Your_Ship/Combat/Bridge Crew Roles/Captain.md",
+    "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md",
+    "05_Your_Ship/attachments/Helmsman.png",
+    "05_Your_Ship/attachments/shipheading.png",
+    "05_Your_Ship/attachments/Gunner.png",
+    "05_Your_Ship/attachments/Captain.png",
+    "05_Your_Ship/attachments/Boatswain.png"
   ]
 }
