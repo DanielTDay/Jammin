@@ -180,12 +180,9 @@
             "id": "f2f3a9699dc6b55f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "05_Your_Ship/Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "05_Your_Ship/attachments/theship.pdf"
               }
             }
           },
@@ -193,17 +190,14 @@
             "id": "02b99745fb2ba654",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03_The_Universe/Map of the Flow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "05_Your_Ship/attachments/theship.pdf"
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -261,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_The_Universe/Map of the Flow.md",
+                "file": "05_Your_Ship/attachments/theship.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_The_Universe/Map of the Flow.md",
+                "file": "05_Your_Ship/attachments/theship.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_The_Universe/Map of the Flow.md"
+                "file": "05_Your_Ship/attachments/theship.pdf"
               }
             }
           },
@@ -330,17 +324,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02b99745fb2ba654",
+  "active": "6c1fa1d4a226b896",
   "lastOpenFiles": [
     "05_Your_Ship/Index.md",
-    "05_Your_Ship/Ship Information/About Your Ship.md",
-    "05_Your_Ship/Combat/Mega Spells.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Helmsman.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Gunner.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Fighter Helmsman.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Captain.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles.md",
-    "05_Your_Ship/attachments/Pasted image 20230123085423.png"
+    "05_Your_Ship/attachments/theship.pdf",
+    "01_NPCiary/The Rock of Bral/Prince Andru.md",
+    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Mirt.md",
+    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
+    "01_NPCiary/attachments/durnan.png",
+    "01_NPCiary/attachments/mirt.png",
+    "01_NPCiary/attachments/andru.png",
+    "00_Beastiary/Minor/Troll.md",
+    "00_Beastiary/Minor/Shadow Snake.md"
   ]
 }
