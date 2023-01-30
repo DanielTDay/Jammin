@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3167da6c96cb182e",
+        "id": "6aa1f16c5f0b1b85",
         "type": "tabs",
         "children": [
           {
-            "id": "171a2dfdfed80200",
+            "id": "b48e1be47719a2ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_The_Universe/Realmspace/The Rock of Bral/Index.md",
+                "file": "04_Logs/S_004.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_The_Universe/Index.md",
+                "file": "04_Logs/S_004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_The_Universe/Index.md",
+                "file": "04_Logs/S_004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_The_Universe/Index.md"
+                "file": "04_Logs/S_004.md"
               }
             }
           },
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1fa1d4a226b896",
+  "active": "b48e1be47719a2ef",
   "lastOpenFiles": [
+    "04_Logs/S_003.md",
+    "04_Logs/S_002.md",
     "04_Logs/S_001.md",
-    "04_Logs/attachments/Pasted image 20230119095200.png",
-    "03_The_Universe/attachments/flowmap.jpg",
-    "03_The_Universe/Index.md",
-    "03_The_Universe/Realmspace/The Rock of Bral/Locations/Docks.md",
-    "03_The_Universe/Realmspace/The Rock of Bral/Locations/Rockrat.md",
-    "03_The_Universe/Realmspace/The Rock of Bral/Index.md",
-    "03_The_Universe/Realmspace/The Rock of Bral/Map.md",
-    "01_NPCiary/The Rock of Bral/Maya.md",
-    "01_NPCiary/The Rock of Bral/Prince Andru.md"
+    "04_Logs/attachments/l3.png",
+    "04_Logs/attachments/l4.png",
+    "04_Logs/attachments/l2.png",
+    "04_Logs/attachments/l1.png",
+    "04_Logs/attachments/Pasted image 20230130094619.png",
+    "04_Logs/S_004.md",
+    "index.md"
   ]
 }
