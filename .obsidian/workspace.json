@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md",
+                "file": "05_Your_Ship/Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md",
+                "file": "05_Your_Ship/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md",
+                "file": "05_Your_Ship/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md"
+                "file": "05_Your_Ship/Index.md"
               }
             }
           },
@@ -319,6 +319,8 @@
   },
   "active": "f2f3a9699dc6b55f",
   "lastOpenFiles": [
+    "05_Your_Ship/Ship Information/About Your Ship.md",
+    "05_Your_Ship/Combat/Mega Spells.md",
     "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md",
     "05_Your_Ship/Combat/Bridge Crew Roles/Helmsman.md",
     "05_Your_Ship/Combat/Bridge Crew Roles/Gunner.md",
@@ -326,8 +328,6 @@
     "05_Your_Ship/Combat/Bridge Crew Roles/Captain.md",
     "05_Your_Ship/Combat/Bridge Crew Roles.md",
     "05_Your_Ship/attachments/Pasted image 20230123085423.png",
-    "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
-    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Mirt.md",
-    "03_The_Universe/Realmspace/Toril/Waterdeep/Blue Alley.md"
+    "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md"
   ]
 }
