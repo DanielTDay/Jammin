@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 19,
+  "baseFontSize": 15,
   "showViewHeader": true,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Obsidian Nord"
 }

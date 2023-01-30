@@ -12,7 +12,7 @@
 
 	Prof: Acrobatics, Athletics, Performance, Religion, Survival
 
-![Pobis](/Player_Characters/attachments/deekeek_hiqui.png)
+![Pobis](attachments/deekeek_hiqui.png)
 
 ### Description
 https://www.dndbeyond.com/characters/91116664
