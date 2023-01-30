@@ -1,2 +1,1 @@
-https://www.dndbeyond.com/sources/sais/bam/bestiary#EyeMonger
-
+![](../attachments/Pasted%20image%2020230130083748.png)
