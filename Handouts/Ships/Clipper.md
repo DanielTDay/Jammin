@@ -1,0 +1,1 @@
+![](attachments/clipper.jpg)

@@ -8,20 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ca3ab7cbfb18f6f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ea83cd711af9fb83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "03_The_Universe/Realmspace/The Rock of Bral/The Rock of Bral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42d04e0b30a41857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Ships/Wasp.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a3fd8feb45dae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Ships/Clipper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc0b24110846fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Ships/Clipper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "696816f5697a008b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Ships/Galleon.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e606e49b3f50769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Ships/Tradesman.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3bfb061f8f7f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Ships/Clipper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fc2b71fc5b12413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Your_Ship/Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -58,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wasp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "05_Your_Ship/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "05_Your_Ship/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "05_Your_Ship/Index.md"
               }
             }
           },
@@ -156,17 +239,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea83cd711af9fb83",
+  "active": "5fc2b71fc5b12413",
   "lastOpenFiles": [
-    "Handouts/Spelljammer/About Astral Sea.md",
-    "05_Your_Ship/Index.md",
-    "05_Your_Ship/Spelljammer PC Weapons.md",
-    "05_Your_Ship/Ship Upgrades.md",
-    "05_Your_Ship/Ship Mods.md",
-    "05_Your_Ship/Mega Spells.md",
-    "05_Your_Ship/Crew.md",
-    "05_Your_Ship/Bridge Crew Roles.md",
-    "05_Your_Ship/About Your Ship.md",
-    "05_Your_Ship/attachements/Pasted image 20230123085423.png"
+    "05_Your_Ship/Combat/Mega Spells.md",
+    "Handouts/Spelljammer/Spelljammer PC Weapons.md",
+    "05_Your_Ship/Ship Information.md",
+    "Handouts/Ships/Clipper.md",
+    "Handouts/Ships/Dragonfly.md",
+    "Handouts/Ships/Galleon.md",
+    "Handouts/Ships/Hammership.md",
+    "Handouts/Ships/Tradesman.md",
+    "Handouts/Ships/Wasp.md",
+    "Handouts/Ships/attachments/dragonfly.jpg"
   ]
 }
