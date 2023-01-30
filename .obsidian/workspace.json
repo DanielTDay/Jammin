@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
+                "file": "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
+                "file": "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
+                "file": "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md"
+                "file": "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md"
               }
             }
           },
@@ -267,11 +267,11 @@
   },
   "active": "3fd07313cbd65c0f",
   "lastOpenFiles": [
-    "01_NPCiary/The Rock of Bral/Prince Andrew.md",
-    "01_NPCiary/The Rock of Bral/Mirt.md",
-    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
+    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Mirt.md",
     "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
     "03_The_Universe/Realmspace/Toril/Waterdeep/Blue Alley.md",
+    "01_NPCiary/Toril/Waterdeep/Yawning Portal/Durnan.md",
+    "01_NPCiary/The Rock of Bral/Prince Andru.md",
     "03_The_Universe/Realmspace/The Rock of Bral/Mao.md",
     "03_The_Universe/Realmspace/The Rock of Bral/The Rock of Bral.md",
     "00_Beastiary/Minor/Troll.md",
