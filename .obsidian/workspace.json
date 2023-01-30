@@ -4,203 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "12c37b36ef67d087",
+        "id": "3167da6c96cb182e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea83cd711af9fb83",
+            "id": "171a2dfdfed80200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_The_Universe/Realmspace/The Rock of Bral/The Rock of Bral.md",
+                "file": "03_The_Universe/Realmspace/The Rock of Bral/Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "42d04e0b30a41857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Ships/Wasp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05a3fd8feb45dae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Ships/Clipper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc0b24110846fea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Ships/Clipper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "696816f5697a008b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Ships/Galleon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e606e49b3f50769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Ships/Tradesman.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3bfb061f8f7f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Ships/Clipper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc2b71fc5b12413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_The_Universe/Realmspace/The Rock of Bral/The Rock of Bral.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cbbac732de7bd75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fd07313cbd65c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9e0736dd70387d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Your_Ship/Combat/Bridge Crew Roles/Captain.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "718ac7adcd437c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Your_Ship/Combat/Bridge Crew Roles/Fighter Helmsman.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018ca857116c2fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Your_Ship/Combat/Bridge Crew Roles/Gunner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2f3a9699dc6b55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b99745fb2ba654",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Your_Ship/attachments/theship.pdf"
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md",
+                "file": "03_The_Universe/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md",
+                "file": "03_The_Universe/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Your_Ship/Combat/Mega Spells.md"
+                "file": "03_The_Universe/Index.md"
               }
             }
           },
@@ -327,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2f3a9699dc6b55f",
+  "active": "6c1fa1d4a226b896",
   "lastOpenFiles": [
-    "05_Your_Ship/Combat/Bridge Crew Roles/Helmsman.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Gunner.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Fighter Helmsman.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Captain.md",
-    "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md",
-    "05_Your_Ship/attachments/Helmsman.png",
-    "05_Your_Ship/attachments/shipheading.png",
-    "05_Your_Ship/attachments/Gunner.png",
-    "05_Your_Ship/attachments/Captain.png",
-    "05_Your_Ship/attachments/Boatswain.png"
+    "04_Logs/S_001.md",
+    "04_Logs/attachments/Pasted image 20230119095200.png",
+    "03_The_Universe/attachments/flowmap.jpg",
+    "03_The_Universe/Index.md",
+    "03_The_Universe/Realmspace/The Rock of Bral/Locations/Docks.md",
+    "03_The_Universe/Realmspace/The Rock of Bral/Locations/Rockrat.md",
+    "03_The_Universe/Realmspace/The Rock of Bral/Index.md",
+    "03_The_Universe/Realmspace/The Rock of Bral/Map.md",
+    "01_NPCiary/The Rock of Bral/Maya.md",
+    "01_NPCiary/The Rock of Bral/Prince Andru.md"
   ]
 }

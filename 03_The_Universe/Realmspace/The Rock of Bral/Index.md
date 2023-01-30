@@ -125,7 +125,7 @@ The beating heart of the Rock lies in the warren of streets and crowded markets 
 
 The Low City has a preponderance of taverns, inns, alehouses, shops, and crafting establishments and an equally staggering number of vacant buildings.
 
-#### Docks
+#### [Docks](Locations/Docks.md)
 Most ships approach Bral at the asteroid’s leading edge, where a set of wooden docks extends into Wildspace to provide berths for new arrivals. Caverns at the gravity plane have been cut into the Rock’s edge and turned into storage areas. Many of them are fitted with hoists used to transport cargo to the warehouses topside.
 
 #### Drydocks
@@ -138,11 +138,11 @@ This prosperous tavern is rarely troubled by bullies or thieves.
 The Low City’s marketplace is much smaller and shabbier than the Great Market of the Middle City. Most of its structures are rickety stalls where small merchants peddle their wares. Though it draws its clientele mostly from the surrounding neighborhoods, the Lesser Market also attracts new arrivals, fresh from the docks, who are looking for a bargain or perhaps for something more sinister.
 
 #### Mercane Agency
-[Mercanes](https://www.dndbeyond.com/monsters/2821181-mercane) (see [Boo’s Astral Menagerie](https://www.dndbeyond.com/sources/sais/bam)) recently established a presence on the Rock by taking over an unmarked, inconspicuous building near the Lesser Market. The place is occupied by a small staff of agents who act as an intermediary between the mercanes and those who want to do business with them. Such business typically involves the purchase of [spelljamming helms](https://www.dndbeyond.com/magic-items/5439867-spelljamming-helm) and other magic items.
+Mercanes recently established a presence on the Rock by taking over an unmarked, inconspicuous building near the Lesser Market. The place is occupied by a small staff of agents who act as an intermediary between the mercanes and those who want to do business with them. Such business typically involves the purchase of spelljamming helms and other magic items.
 
 The mercanes don’t advertise their involvement with the facility, nor do they visit the agency very often. When they do, it’s usually to conduct business with a particularly wealthy or influential client.
 
-#### The Rockrat
+#### [Rockrat](Locations/Rockrat.md)
 Of all the taverns on Bral, the Rockrat has the reputation of being the most dilapidated and filthy. Its only concession to decoration is a few hanging pieces of damaged nautical gear. Its owner and proprietor is a friendly, foul-mouthed wererat named Maya.
 
 #### Xenotermination, Ltd.
