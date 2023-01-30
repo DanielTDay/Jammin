@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02b99745fb2ba654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_The_Universe/Map of the Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -248,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Your_Ship/Index.md",
+                "file": "03_The_Universe/Map of the Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Your_Ship/Index.md",
+                "file": "03_The_Universe/Map of the Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Your_Ship/Index.md"
+                "file": "03_The_Universe/Map of the Flow.md"
               }
             }
           },
@@ -317,8 +330,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2f3a9699dc6b55f",
+  "active": "02b99745fb2ba654",
   "lastOpenFiles": [
+    "05_Your_Ship/Index.md",
     "05_Your_Ship/Ship Information/About Your Ship.md",
     "05_Your_Ship/Combat/Mega Spells.md",
     "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md",
@@ -327,7 +341,6 @@
     "05_Your_Ship/Combat/Bridge Crew Roles/Fighter Helmsman.md",
     "05_Your_Ship/Combat/Bridge Crew Roles/Captain.md",
     "05_Your_Ship/Combat/Bridge Crew Roles.md",
-    "05_Your_Ship/attachments/Pasted image 20230123085423.png",
-    "03_The_Universe/Realmspace/Toril/Waterdeep/Yawning Portal.md"
+    "05_Your_Ship/attachments/Pasted image 20230123085423.png"
   ]
 }
