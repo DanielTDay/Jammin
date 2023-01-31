@@ -6,7 +6,7 @@
 | Arcane Weaponry      | 1,000 |
 | Assault Port         | 3,000 |
 | Enchanted Hull       | 5,000 |
-| Enchanced Weapon     | 1,000 |
+| Enhanced Weapon     | 1,000 |
 | Gunpowder Station    | 2,500 |
 | Helm Link            | 5000  |
 | Reinforced Bulwark   | 5,000 |
@@ -71,6 +71,7 @@ ammunition fired from it actively seeks to home in on
 helms or mega creatures. This weapon has a +1 bonus
 to attack rolls and has its normal range increased by
 500 ft.
+
 This bonus can increase to +2 and +3, but such magic
 is not readily available on the market. Enchantment of
 this power level is the work of highly skilled

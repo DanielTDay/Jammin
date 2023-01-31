@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Logs/S_004.md",
+                "file": "05_Your_Ship/Ship Information/Ship Upgrades.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Logs/S_004.md",
+                "file": "05_Your_Ship/Ship Information/Ship Upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Logs/S_004.md",
+                "file": "05_Your_Ship/Ship Information/Ship Upgrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Logs/S_004.md"
+                "file": "05_Your_Ship/Ship Information/Ship Upgrades.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "b48e1be47719a2ef",
   "lastOpenFiles": [
-    "04_Logs/S_003.md",
-    "04_Logs/S_002.md",
-    "04_Logs/S_001.md",
-    "04_Logs/S_004.md",
-    "04_Logs/attachments/l3.png",
-    "04_Logs/attachments/l4.png",
-    "04_Logs/attachments/l2.png",
-    "04_Logs/attachments/l1.png",
-    "04_Logs/attachments/Pasted image 20230130094619.png",
-    "index.md"
+    "05_Your_Ship/Ship Information/Ship Weapons.md",
+    "05_Your_Ship/Ship Information/About Your Ship.md",
+    "05_Your_Ship/Ship Information/Ship Mods.md",
+    "Session 0 Notes.md",
+    "05_Your_Ship/Index.md",
+    "index.md",
+    "05_Your_Ship/Ship Information/Ship Upgrades.md",
+    "05_Your_Ship/Ship Information/Crew.md",
+    "05_Your_Ship/Combat/Mega Spells.md",
+    "05_Your_Ship/Combat/Bridge Crew Roles/Boatswain.md"
   ]
 }
