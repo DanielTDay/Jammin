@@ -12,6 +12,21 @@
 
 	Prof: Athletics, Insight, Intimidation, Religion, Survival
 
+	Magic Items: Dread Helm, Pot of Awakening
+
+## Description
+Randy is a formidable and versatile warrior, with a body made of metal and wood. Standing at over six feet tall, this golem-like creature has an intimidating presence, but also a fluid and adaptable nature.
+
+## Bio
+Originally from X
+
+Met up with the group 
+
+## Notes
+- Changes outfits and languages
+- On a quest to find the recipe
+
+
 ![Pobis](attachments/randy_randleson.png)
 
 

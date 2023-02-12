@@ -1,6 +1,6 @@
 **Plasmoid**: *Medium Ooze, Chaotic Neutral*
 
-	(1) Warlock: Pact of the Genie
+	(2) Warlock: Pact of the Genie
 	(2) Barbarian
 
 	P. Percept: 9
@@ -13,7 +13,25 @@
 
 	Prof: Arcana, Athletics, History, Intimidation
 
-![](attachments/dork_shotazit.png)
+	Magic Items: Enduring Spellbook, Shield of Expression
+
+## Description
+
+Dork is an enigmatic and otherworldly being, residing in a simple flower pot in the company of a genie. This Plasmoid is a ball of pulsing energy, shimmering with an inner light in a vibrant shade of purple. Its surface is constantly shifting and changing, crackling with energy. Despite its small size, it radiates an aura of power and mystery.
+
+Dork's form is constantly in flux, usually it will take on a humanoid form but when they're feeling playful, it might form itself into simple shapes, like a flower or a star on the front on their shield. The Plasmoid's behavior is also quite unpredictable, sometimes bubbling with excitement, other times seeming to sink into a state of quiet contemplation.
+
+## Bio
+Originally from X
+
+Met up with the group 
+
+Made a Pact with X for protection and companionship, which has granted them wished and magical powers.  In turn, the Plasmoid provides the genie with a source of energy and inspiration as well as a monthly fee...
+
+## Notes
+- Hefty Genie Fee 
+- Writing a play
+- Found a book in Space
 
 ![](attachments/dork2.png)
 

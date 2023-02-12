@@ -1,11 +1,8 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://github.com/DanielTDay/Jammin
 branding:
-  title: Project Name
-  label: Docs
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+  title: Treasure Hunt
+  label: DnD 5e
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

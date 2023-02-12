@@ -1,6 +1,6 @@
 **Aarakocra:** *Medium Bird-like Humanoid, Neutral Good*
 
-	(3) Blood Hunter: Order of the Ghost Slayer
+	(4) Blood Hunter: Order of the Ghost Slayer
 
 	P. Percept: 12
 	P. Investi: 12
@@ -12,14 +12,25 @@
 
 	Prof: Acrobatics, Athletics, Performance, Religion, Survival
 
+	Magic Items: Breathing Bubble, Billowing Cloak
+
+## Description
+Standing tall at around five feet, this bird-like humanoid has a slender and agile build. Their feathers are a deep shade of blue that covers its entire body, giving it a sleek and regal appearance.
+
+The eyes are milky white, and seem to glow with an inner light. They give off a wise and otherworldly quality, as if they are seeing beyond what is visible to others. Those close to Deekeek know this to be incorrect.
+
+## Bio
+Originally from X
+
+Met up with the group 
+
+Made a Pact with X to not steal shiny objects, trying to avoid bird like qualities.
+
+## Notes
+- Enjoys Shiny things
+- Has made a pact to not steal said shiny things
+
 ![Pobis](attachments/deekeek_hiqui.png)
-
-### Description
-https://www.dndbeyond.com/characters/91116664
-
-Colorful Plumes of Blue Feathers
-
-White Milky Eyes
 
 ### Class 
 https://www.dndbeyond.com/classes/blood-hunter#OrderoftheGhostslayer

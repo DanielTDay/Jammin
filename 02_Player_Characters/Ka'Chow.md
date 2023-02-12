@@ -1,9 +1,9 @@
-**Auto-Gnome**: *Small Construct, Lawful Neutral*
+*Thri'keen: Small Humaniod, Lawful Neutral*
 
-	(3) Artillerist Artificer
+	(4) Artillerist Artificer
 
 	P. Percept: 13
-	P. Investi: 15
+	P. Investi: 16
 	P. Insight: 13
 
 	Lang: Common, Telepathy, Thri-kreen
@@ -11,6 +11,30 @@
 	Feat: Keen Mind
 
 	Prof: Insight, Investigation, Perception, Sleight of Hand
+
+	Magic Items: Clockwork Amulet, Mystery Key
+
+## Description
+Ka'Chow is a formidable and unique individual. This insectoid warrior has a chitinous exoskeleton that provides a natural armor, protecting them from harm. The color of the exoskeleton is a dark metallic grey, giving it a sleek and professional appearance.
+
+Despite their imposing stature, the Artificer Mantis Warrior is surprisingly nimble, using their powerful legs and sharp claws to navigate both rugged terrain and urban environments with ease. They are highly skilled in combat, both with their natural weapons and with homemade machines, which they have a particular affinity for.
+
+Ka'Chow is a mechanical genius, able to create and modify weapons with ease. They have a particular love for crafting and are often seen carrying an array of different tools, from planers to saws. They have an almost obsessive interest in perfecting their items and other tools, constantly tinkering with them and making improvements to their design.
+
+## Bio
+Originally from X
+
+Found this mysterious key somewhere
+
+Found enjoyment in woodworking
+
+Met up with the group 
+
+## Notes
+- Interested in Locks and Keys
+- Has a Key that he doesnt know about
+- Has a small humunculi
+- Enjoys Woodcrafting
 
 ![Pobis](attachments/kachow.png)
 

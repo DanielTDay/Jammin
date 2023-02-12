@@ -12,6 +12,21 @@
 
 	Prof: Arcana, History, Insight, Religion
 
+	Magic Items: Ruby of the War Mage, Whisper Jar
+
+## Description
+Pobis is a unique and quirky individual, with a round and whimsical body made of gleaming metal and with a large gleeming red gem in their chest. Standing at just over two feet tall, this robot has a cheerful and energetic personality, always eager to try new things and experience the world around them.
+
+Pobis is a quirky and lovable individual, programmed for greatness but struggling to reach their full potential. Despite their shortcomings, they remains determined and optimistic, never losing their love for flying and their thirst for knowledge. 
+
+## Bio
+Originally from X
+
+Met up with the group 
+
+## Notes
+- Flys the Ship well
+
 ![Pobis](attachments/pobis_boltfull.png)
 
 
