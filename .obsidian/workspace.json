@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "15eb30d9dd06275d",
+        "id": "1cf40a50aab48633",
         "type": "tabs",
         "children": [
           {
-            "id": "65fcf4b19fb92905",
+            "id": "a200799b727a468f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           },
           {
@@ -138,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65fcf4b19fb92905",
+  "active": "6c1fa1d4a226b896",
   "lastOpenFiles": [
-    "01_NPCiary/The Rock of Bral/Jasson.md",
-    "Index.md",
     "05_Your_Ship/The Wasp.md",
-    "04_Logs/S_005.md",
-    "04_Logs/S_002.md",
-    "04_Logs/S_004.md",
-    "04_Logs/S_003.md",
-    "04_Logs/S_001.md",
-    "06_Handouts/Spelljammer/Spelljammer PC Weapons.md",
-    "06_Handouts/Spelljammer/About Astral Sea.md"
+    "Index.md",
+    "06_Handouts/Ship Pics/Tradesman.md",
+    "06_Handouts/Ship Pics/Hammership.md",
+    "06_Handouts/Ship Pics/Galleon.md",
+    "06_Handouts/Key Items/Letters of Marque.md",
+    "06_Handouts/Calendar/Calendar.md",
+    "05_Your_Ship/Ship Information/About Your Ship.md",
+    "05_Your_Ship/Ship Information/Combat/Mega Spells.md",
+    "05_Your_Ship/Ship Information/Ship Upgrades.md"
   ]
 }

@@ -1,1 +1,0 @@
-![fighter](../../attachments/Fighter.png)

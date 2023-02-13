@@ -1,1 +1,0 @@
-![captain](../../attachments/Captain.png)

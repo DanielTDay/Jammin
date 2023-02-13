@@ -1,1 +1,0 @@
-![helmsman](../../attachments/Helmsman.png)

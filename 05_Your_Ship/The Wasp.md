@@ -1,7 +1,3 @@
-![theshipjpeg](attachments/theshipjpeg.png)
+![](attachments/Pasted%20image%2020230212235723.png)
 
-
-test
-
-PDF
 ![theship](attachments/theship.pdf)

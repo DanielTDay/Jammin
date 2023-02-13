@@ -1,1 +1,0 @@
-![gunner](../../attachments/Gunner.png)
