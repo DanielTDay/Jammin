@@ -1,4 +1,4 @@
-irate Ship Bounty 
+Pirate Ship Bounty 
 Tal Barracuda 8,000 
 Erik? Rauen 5,000 
 ? Frostfire 7,000 

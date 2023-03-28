@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf40a50aab48633",
+        "id": "77d4cf2e609b2531",
         "type": "tabs",
         "children": [
           {
-            "id": "a200799b727a468f",
+            "id": "6a3f38b53e578666",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,24 +131,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c1fa1d4a226b896",
+  "active": "6a3f38b53e578666",
   "lastOpenFiles": [
-    "05_Your_Ship/The Wasp.md",
-    "Index.md",
-    "06_Handouts/Ship Pics/Tradesman.md",
-    "06_Handouts/Ship Pics/Hammership.md",
+    "04_Logs/S_005.md",
+    "01_NPCiary/Town of Refuge/The Visitor.md",
+    "01_NPCiary/Town of Refuge/Roswell.md",
+    "01_NPCiary/Town of Refuge/June.md",
+    "01_NPCiary/Town of Refuge/Ren.md",
+    "01_NPCiary/Town of Refuge/Jack.md",
+    "01_NPCiary/Town of Refuge/Erik.md",
+    "01_NPCiary/Town of Refuge/Cassidy.md",
+    "01_NPCiary/Town of Refuge/Bogdan.md",
+    "06_Handouts/Spelljammer/New PC Weapons.md",
+    "06_Handouts/Ship Pics/Clipper.md",
     "06_Handouts/Ship Pics/Galleon.md",
-    "06_Handouts/Key Items/Letters of Marque.md",
+    "06_Handouts/Ship Pics/Hammership.md",
+    "06_Handouts/Ship Pics/Tradesman.md",
+    "06_Handouts/Ship Pics/Wasp.md",
     "06_Handouts/Calendar/Calendar.md",
-    "05_Your_Ship/Ship Information/About Your Ship.md",
-    "05_Your_Ship/Ship Information/Combat/Mega Spells.md",
-    "05_Your_Ship/Ship Information/Ship Upgrades.md"
+    "04_Logs/S_007.md",
+    "04_Logs/S_006.md",
+    "00_Beastiary/Minor/Astral Elf Extraction Team.md",
+    "04_Logs/S_004.md",
+    "04_Logs/S_003.md",
+    "04_Logs/S_008.md",
+    "01_NPCiary/The Rock of Bral/The Rockrat Tavern/Grinder.md",
+    "01_NPCiary/Town of Refuge/Helpington.md",
+    "00_Beastiary/Minor/Purple Worm.md",
+    "01_NPCiary/Organizations/Thrikreen/Tiktik.md",
+    "01_NPCiary/Organizations/Thrikreen",
+    "01_NPCiary/Organizations/Pirates",
+    "01_NPCiary/Town of Refuge",
+    "01_NPCiary/Town of Refuge",
+    "03_The_Universe/Clusterspace/Chakarak",
+    "03_The_Universe/Clusterspace"
   ]
 }
