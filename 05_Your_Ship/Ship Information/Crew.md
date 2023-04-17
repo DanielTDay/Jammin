@@ -8,8 +8,6 @@ The crew uses air.
 All wildjammers come with a pantry that can support the maximum crew count of the ship for 3 months without taking up cargo space
 
 # Costs
-
-
 Name   | Day | Month 
 ---    | ---  | ---
 Green Crew | 1.5gp | 45gp
