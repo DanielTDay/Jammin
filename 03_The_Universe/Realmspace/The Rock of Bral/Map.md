@@ -1,1 +1,0 @@
-![bralmap](../../attachments/bralmap.jpg)
