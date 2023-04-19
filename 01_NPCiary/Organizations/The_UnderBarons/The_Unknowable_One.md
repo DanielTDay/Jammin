@@ -1,0 +1,1 @@
+Within the cavernous interior of the Rock dwells a mysterious underbaron who specializes in smuggling. This underbaron—a mind flayer—breeds intellect devourers and uses them to turn Bralian citizens into spies.

@@ -1,0 +1,1 @@
+This neutral good halfling, headquartered in a neighborhood known as the Burrows, holds sway over craftspeople.

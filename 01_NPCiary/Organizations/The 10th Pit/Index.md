@@ -1,3 +1,1 @@
-# The 10th Pit
-
 The Pit is an elite evil group dedicated to the covert conquest of all the spheres. A secret dark sphere is rumored to contain a Black Citadel where the leaders of this heartless alliance plot the subversion of all Wildspace. Dire messengers carry the will of the leaders to the various chapter heads throughout the universe. Power is the chief goal of the Tenth Pit, and only those people capable of acquiring and wielding it, without moral qualm, are selected for possible membership.

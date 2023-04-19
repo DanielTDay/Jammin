@@ -1,0 +1,1 @@
+Gadaric is Andru’s chief advisor. His appearance is that of the stereotypical elderly court wizard. He is hot-headed and a bit unreliable.

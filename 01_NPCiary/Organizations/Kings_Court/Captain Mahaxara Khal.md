@@ -1,0 +1,1 @@
+Mahaxara, the current captain of the Royal Guard, is tall and athletic. She has snake tattoos adorning her arms. She is unflinchingly loyal to House Cozar, though she has no appetite for courtly politics.

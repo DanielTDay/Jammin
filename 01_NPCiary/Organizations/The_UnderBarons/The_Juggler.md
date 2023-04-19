@@ -1,0 +1,1 @@
+This chaotic good elf oversees a network of swindlers and minstrels. She runs the Juggler’s Folk Guildhouse.
