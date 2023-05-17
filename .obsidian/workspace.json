@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md"
+              }
             }
           },
           {
@@ -151,11 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c1fa1d4a226b896",
+  "active": "81489ec14c1dfdc5",
   "lastOpenFiles": [
+    "00_DM/sp.png",
     "index.md",
     "00_DM/Untitled.md",
-    "00_DM/sp.png",
     "05_Your_Ship/Ship Information/Ship Mods.md",
     "05_Your_Ship/Ship Information/Ship Weapons.md",
     "05_Your_Ship/Ship Information/Crew.md",
