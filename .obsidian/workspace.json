@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
+                "file": "00_DM/TEST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
+                "file": "00_DM/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
+                "file": "00_DM/TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md"
+                "file": "00_DM/TEST.md"
               }
             }
           },
@@ -157,11 +157,12 @@
   },
   "active": "81489ec14c1dfdc5",
   "lastOpenFiles": [
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
+    "00_DM/TEST.md",
     "00_DM/YO",
     "00_DM",
     "00_DM/sp.png",
     "index.md",
-    "00_DM/Untitled.md",
     "05_Your_Ship/Ship Information/Ship Mods.md",
     "05_Your_Ship/Ship Information/Ship Weapons.md",
     "05_Your_Ship/Ship Information/Crew.md",
@@ -179,7 +180,6 @@
     "03_The_Universe/Clusterspace/Index.md",
     "03_The_Universe/Clusterspace/Chakarak/Town of Refuge.md",
     "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
     "01_NPCiary/The_Rock_of_Bral/3_The_High_City/Royal_Theater_Company/Kiria Evensong.md",
     "01_NPCiary/Organizations/The_UnderBarons/Ozamata.md",
     "01_NPCiary/Organizations/The_UnderBarons/Meredin_Sandyfoot.md",
@@ -193,7 +193,6 @@
     "01_NPCiary/Organizations/The_UnderBarons",
     "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/The_Raised_Cup",
     "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/Balics_Blades",
-    "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/Dals_Locks_and_Keys",
     "03_The_Universe/attachments/flowmap.jpg",
     "00_Beastiary/attachments/troll.png",
     "00_Beastiary/attachments/shadowsnake.png",
