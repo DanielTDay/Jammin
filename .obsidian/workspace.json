@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84215135cde57097",
+        "id": "e6766574fa42eb13",
         "type": "tabs",
         "children": [
           {
-            "id": "81489ec14c1dfdc5",
+            "id": "e2a8091a72ab0eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_DM/TEST.md",
+                "file": "00_DM/DM-Dan/5e srd.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_DM/TEST.md",
+                "file": "00_DM/DM-Dan/5e srd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_DM/TEST.md",
+                "file": "00_DM/DM-Dan/5e srd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_DM/TEST.md"
+                "file": "00_DM/DM-Dan/5e srd.md"
               }
             }
           },
@@ -155,52 +155,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81489ec14c1dfdc5",
+  "active": "e2a8091a72ab0eeb",
   "lastOpenFiles": [
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
-    "00_DM/TEST.md",
-    "00_DM/YO",
-    "00_DM",
-    "00_DM/sp.png",
-    "index.md",
-    "05_Your_Ship/Ship Information/Ship Mods.md",
-    "05_Your_Ship/Ship Information/Ship Weapons.md",
-    "05_Your_Ship/Ship Information/Crew.md",
-    "05_Your_Ship/Ship Information/Ship Upgrades.md",
-    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Master_of_the_Docks/Oliver_Redstream.md",
-    "03_The_Universe/Clusterspace/Mordan.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Zadas_Mounts_and_Harness.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The_Rockrat.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The_Low_Magistrate.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The Shipyard.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Sign_of_the_Black_Bull.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Saakharrs_Exotic_Mails.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Master_of_the_Docks.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Lesser_Market.md",
-    "03_The_Universe/Clusterspace/Index.md",
-    "03_The_Universe/Clusterspace/Chakarak/Town of Refuge.md",
-    "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
-    "01_NPCiary/The_Rock_of_Bral/3_The_High_City/Royal_Theater_Company/Kiria Evensong.md",
-    "01_NPCiary/Organizations/The_UnderBarons/Ozamata.md",
-    "01_NPCiary/Organizations/The_UnderBarons/Meredin_Sandyfoot.md",
-    "01_NPCiary/Organizations/The_UnderBarons/The_Juggler.md",
-    "01_NPCiary/Organizations/The_UnderBarons/The_Unknowable_One.md",
-    "01_NPCiary/Organizations/Guilds/Red_Mask_Guild",
-    "01_NPCiary/Organizations/Kings_Court",
-    "01_NPCiary/Organizations/Guilds/Thieves_Guild",
-    "01_NPCiary/Organizations/Guilds",
-    "01_NPCiary/Organizations/Guilds/Jugglers_Guild",
-    "01_NPCiary/Organizations/The_UnderBarons",
-    "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/The_Raised_Cup",
-    "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/Balics_Blades",
-    "03_The_Universe/attachments/flowmap.jpg",
-    "00_Beastiary/attachments/troll.png",
-    "00_Beastiary/attachments/shadowsnake.png",
-    "00_Beastiary/attachments/Pasted image 20230212234144.png",
-    "00_Beastiary/attachments/mephitsmoke.png",
-    "00_Beastiary/attachments/astraleater.png",
-    "00_Beastiary/attachments/bonewheel.png",
-    "01_NPCiary/attachments/mirt.png",
-    "01_NPCiary/attachments/durnan.png"
+    "00_DM/DM-Dan",
+    "00_DM/Untitled.md",
+    "00_DM/strikinghawk-02.png",
+    "00_DM/Stealth Chart.jpg",
+    "00_DM/sj1e rules.md",
+    "00_DM/ships.md",
+    "00_DM/Rumors.md",
+    "00_DM/Random Oracular  Pronouncements.md",
+    "00_DM/PowerToysSetup-0.69.1-x64.exe",
+    "00_DM/PC Notes.md",
+    "00_DM/Opening Night.md",
+    "00_DM/Omens.md",
+    "00_DM/npc generator.md",
+    "00_DM/king in yellow.md",
+    "00_DM/Easy Riddles.md",
+    "00_DM/dtrpg-2023-05-15_11-48am.zip",
+    "00_DM/dtrpg-2023-05-15_11-46am.zip",
+    "00_DM/drive-download-20230515T165253Z-001.zip",
+    "00_DM/Dork.md",
+    "00_DM/dmg-2023-05-15_12-10pm.zip",
+    "00_DM/D&D Shop Catalog v_1_1.pdf",
+    "00_DM/Crew Tasks.md",
+    "00_DM/CORPSES.md",
+    "00_DM/City Encounters.md",
+    "00_DM/Carpet.md",
+    "00_DM/Capture.png",
+    "00_DM/Capture 1.png",
+    "00_DM/Bounty List.md",
+    "00_DM/SpellJammer/Monsters/attachments/Pasted image 20230206104013.png",
+    "00_DM/SpellJammer/Monsters/attachments/Pasted image 20230123141736.png",
+    "00_DM/SpellJammer/Monsters/attachments/Pasted image 20230123144959.png",
+    "00_DM/SpellJammer/Monsters/Galeb Duhr.md",
+    "00_DM/SpellJammer/Monsters/Foul Air Elemental.md",
+    "00_DM/SpellJammer/Monsters/attachments",
+    "00_DM/SpellJammer/Monsters/aster eater.md",
+    "00_DM/SpellJammer/Session Plans/Template.md",
+    "00_DM/SpellJammer/Notes/On Travel.md",
+    "00_DM/SpellJammer/Notes/Generate Planet.md",
+    "00_DM/SpellJammer/Notes/avere guide.md",
+    "00_DM/SpellJammer/Monsters",
+    "00_DM/SpellJammer/Session Plans",
+    "00_DM/SpellJammer/Notes",
+    "00_DM/DM-Dan/5e srd.md",
+    "00_DM/dnd-DM/SpellJammer/Monsters/attachments/Pasted image 20230206104013.png",
+    "00_DM/dnd-DM/SpellJammer/Monsters/attachments/Pasted image 20230123144959.png",
+    "00_DM/dnd-DM/SpellJammer/Monsters/attachments/Pasted image 20230123141736.png"
   ]
 }
