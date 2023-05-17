@@ -1,5 +1,5 @@
 ## Treasure Hunt: Spelljamming though the Cosmos
-
+%%
 ### About
 Drawn to the [Rock of Bral](03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md) from their own respective Planes and Spheres the rag-tag group of mercenaries, The Baguette Boys, have found interesting work different then their usual adventure of delivering cargo. Proving themselves as competent fighters and jammers, they receive an interesting proposition from Prince Andru, leader/owner of the Rock of Bral who had been in contact with their captain about their next job.
 
@@ -20,7 +20,7 @@ DARK MODE OR ELSE
 !!!
 
 [Calendar](06_Handouts/Calendar/Calendar.md)
-
+%%
 ### Locations
 [Realmspace](03_The_Universe/Realmspace/Index.md)
  
