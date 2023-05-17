@@ -17,3 +17,6 @@ generator:
 integrations:
   googleAnalytics:
     id:  G-WEHSW0Z4K0
+search:
+  noResultsFoundMsg: Sorry, piss off.
+
