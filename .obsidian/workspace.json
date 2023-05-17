@@ -24,9 +24,19 @@
             "id": "9e42dc52b7d8e915",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "00_DM/sp.png"
+              }
+            }
+          },
+          {
+            "id": "90b1f37efc72101f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
+                "file": "00_DM/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,6 +81,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5597d471e40b5a61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -92,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
+                "file": "00_DM/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
+                "file": "00_DM/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md"
+                "file": "00_DM/Untitled.md"
               }
             }
           },
@@ -161,40 +179,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e42dc52b7d8e915",
+  "active": "90b1f37efc72101f",
   "lastOpenFiles": [
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
+    "00_DM/sp.png",
+    "00_DM/Untitled.md",
+    "index.md",
+    "05_Your_Ship/Ship Information/Ship Mods.md",
+    "05_Your_Ship/Ship Information/Ship Weapons.md",
+    "05_Your_Ship/Ship Information/Crew.md",
+    "05_Your_Ship/Ship Information/Ship Upgrades.md",
+    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Master_of_the_Docks/Oliver_Redstream.md",
+    "03_The_Universe/Clusterspace/Mordan.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Zadas_Mounts_and_Harness.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The_Rockrat.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The_Low_Magistrate.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The Shipyard.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Sign_of_the_Black_Bull.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Saakharrs_Exotic_Mails.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Master_of_the_Docks.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/Lesser_Market.md",
+    "03_The_Universe/Clusterspace/Index.md",
+    "03_The_Universe/Clusterspace/Chakarak/Town of Refuge.md",
     "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
+    "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
     "01_NPCiary/The_Rock_of_Bral/3_The_High_City/Royal_Theater_Company/Kiria Evensong.md",
     "01_NPCiary/Organizations/The_UnderBarons/Ozamata.md",
     "01_NPCiary/Organizations/The_UnderBarons/Meredin_Sandyfoot.md",
     "01_NPCiary/Organizations/The_UnderBarons/The_Juggler.md",
     "01_NPCiary/Organizations/The_UnderBarons/The_Unknowable_One.md",
-    "01_NPCiary/Organizations/The_UnderBarons/Index.md",
-    "01_NPCiary/Organizations/Kings_Court/Index.md",
-    "01_NPCiary/Organizations/Kings_Court/Proconsul Gadaric Main.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The Shipyard.md",
-    "01_NPCiary/Organizations/Guilds/Ironworkers_Guild/Index.md",
-    "01_NPCiary/Organizations/Guilds/Jugglers_Guild/Index.md",
-    "01_NPCiary/Organizations/Guilds/Shipwrights_Guild/Index.md",
-    "01_NPCiary/Organizations/Guilds/Thieves_Guild/Index.md",
     "01_NPCiary/Organizations/Guilds/Red_Mask_Guild",
-    "01_NPCiary/Organizations/Kings_Court/Captain Mahaxara Khal.md",
     "01_NPCiary/Organizations/Kings_Court",
-    "01_NPCiary/Organizations/The 10th Pit/Index.md",
-    "01_NPCiary/Organizations/Prismatic_Order_of_Thought/Index.md",
-    "01_NPCiary/Organizations/Prismatic_Order_of_Thought/Jasson_and_Wallace.md",
     "01_NPCiary/Organizations/Guilds/Thieves_Guild",
     "01_NPCiary/Organizations/Guilds",
     "01_NPCiary/Organizations/Guilds/Jugglers_Guild",
     "01_NPCiary/Organizations/The_UnderBarons",
-    "01_NPCiary/The_Rock_of_Bral/3_The_High_City/Royal_Palace/Prince Andru.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/3_The_High_City/The_Royal_Palace.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/1_The_Low_City/The_Rockrat.md",
-    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Lesser_Market/Negin_Lighthopper.md",
-    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Master_of_the_Docks/Oliver_Redstream.md",
-    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Saakharrs_Exotic_Mails/Saakharr.md",
-    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/The_Low_Magistrate/Borin Laughingsteel.md",
     "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/The_Raised_Cup",
     "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/Balics_Blades",
     "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/Dals_Locks_and_Keys",
@@ -207,7 +225,6 @@
     "00_Beastiary/attachments/astraleater.png",
     "00_Beastiary/attachments/bonewheel.png",
     "01_NPCiary/attachments/mirt.png",
-    "01_NPCiary/attachments/durnan.png",
-    "01_NPCiary/attachments/andru.png"
+    "01_NPCiary/attachments/durnan.png"
   ]
 }
