@@ -19,6 +19,17 @@ Standing tall at around five feet, this bird-like humanoid has a slender and agi
 
 The eyes are milky white, and seem to glow with an inner light. They give off a wise and otherworldly quality, as if they are seeing beyond what is visible to others. Those close to Deekeek know this to be incorrect.
 
+## Background Notes
+Young, learning to fly - can't 
+
+MOB 100 killing/injuring another student
+
+Deekeek leads a flock - powerful
+
+Fought with a rival - blackout - wakeup and temple is leveled
+
+Cast out - ends up on bral
+
 ## Bio
 Originally from X
 

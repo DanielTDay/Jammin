@@ -19,6 +19,20 @@ Pobis is a unique and quirky individual, with a round and whimsical body made of
 
 Pobis is a quirky and lovable individual, programmed for greatness but struggling to reach their full potential. Despite their shortcomings, they remains determined and optimistic, never losing their love for flying and their thirst for knowledge. 
 
+## Background Notes
+Simple guy, gardener
+
+meets love of his life, starts family
+
+is terrorized by cave creatures while venturing as a family
+
+wife lashes out with incredible power, kills everything savagely, cant trust her anymore
+
+You dont want to hurt anyone, blessed light falls upon you as you think about it. You leave the next day
+
+ending up on bral
+
+
 ## Bio
 Originally from X
 

@@ -17,6 +17,17 @@
 ## Description
 Randy is a formidable and versatile warrior, with a body made of metal and wood. Standing at over six feet tall, this golem-like creature has an intimidating presence, but also a fluid and adaptable nature.
 
+## Background Notes
+Had a warforged family, rival, mentor
+
+Joined the war effort
+
+Amazing in battle, blood everywhere
+
+Do you kill a young child on the battlefield?
+
+Turn away, search for meaning
+
 ## Bio
 Originally from X
 

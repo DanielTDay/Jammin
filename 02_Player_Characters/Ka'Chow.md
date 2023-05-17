@@ -21,6 +21,17 @@ Despite their imposing stature, the Artificer Mantis Warrior is surprisingly nim
 
 Ka'Chow is a mechanical genius, able to create and modify weapons with ease. They have a particular love for crafting and are often seen carrying an array of different tools, from planers to saws. They have an almost obsessive interest in perfecting their items and other tools, constantly tinkering with them and making improvements to their design.
 
+## Background Notes
+Grew up underground
+
+had lots of brothers and sisters
+
+knack for tinkering, town loves it
+
+heads out to try it above ground, doesnt work out cause of racism
+
+Poor again, expensive coin falls from the sky, he turns it in and joins the gang instead of selling it for loads of Gold
+
 ## Bio
 Originally from X
 

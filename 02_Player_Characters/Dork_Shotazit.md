@@ -21,6 +21,17 @@ Dork is an enigmatic and otherworldly being, residing in a simple flower pot in 
 
 Dork's form is constantly in flux, usually it will take on a humanoid form but when they're feeling playful, it might form itself into simple shapes, like a flower or a star on the front on their shield. The Plasmoid's behavior is also quite unpredictable, sometimes bubbling with excitement, other times seeming to sink into a state of quiet contemplation.
 
+## Background Notes
+Creating in small mining town
+
+earth genasi vs dwarfs
+
+dwarfs went too deep due to greed
+
+war broke out
+
+large battle arrives, you hide in flower pot, and make a pact for power
+
 ## Bio
 Originally from X
 
