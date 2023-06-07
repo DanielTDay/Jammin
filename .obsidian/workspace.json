@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19bf40d5052986c4",
+            "id": "4fc84ece11dd2f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
+                "file": "06_Handouts/Theater Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
+                "file": "06_Handouts/Theater Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
+                "file": "06_Handouts/Theater Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md"
+                "file": "06_Handouts/Theater Note.md"
               }
             }
           },
@@ -154,37 +154,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19bf40d5052986c4",
+  "active": "4fc84ece11dd2f3a",
   "lastOpenFiles": [
-    "00_DM/DM-Dan/Opening Night.md",
-    "00_DM/DM-Dan/Metal Room.md",
-    "00_DM/DM-Dan/Links.md",
-    "00_DM/DM-Dan/CORPSES.md",
-    "00_DM/DM-Dan/Bounty List.md",
-    "00_DM/DM-Dan/PC Notes.md",
-    "00_DM/DM-Dan/ships.md",
-    "00_DM/DM-Dan/BBB.md",
-    "00_DM/DM-Dan/RANDOM/City Encounters.md",
-    "00_DM/DM-Dan/RANDOM/Random Oracular  Pronouncements.md",
-    "00_DM/DM-Dan/RANDOM/Omens.md",
-    "00_DM/DM-Dan/RANDOM/Easy Riddles.md",
-    "00_DM/DM-Dan/RANDOM/Crew Tasks.md",
-    "00_DM/DM-Dan/RANDOM/Commodore Krux.md",
-    "00_DM/DM-Dan/RANDOM/Carpet Jargon.md",
-    "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
+    "index.md",
+    "06_Handouts/Session Notes/(3).md",
+    "06_Handouts/Session Notes/(2).md",
+    "06_Handouts/Session Notes/(4) 6-5-23.md",
+    "06_Handouts/Session Notes/(1).md",
+    "06_Handouts/Theater Note.md",
+    "00_DM/DM-Dan/SpellJammer/Session Plans/Template.md",
+    "00_DM/DM-Dan/Untitled.md",
+    "03_The_Universe/attachments/flowmap.jpg",
+    "01_NPCiary/Organizations/Kings_Court/Index.md",
+    "01_NPCiary/Organizations/Kings_Court/Sesssion notes help.md",
+    "01_NPCiary/Organizations/Kings_Court/Proconsul Gadaric Main.md",
+    "01_NPCiary/Organizations/Guilds/Thieves_Guild/Index.md",
+    "01_NPCiary/Organizations/Guilds/Ironworkers_Guild/Index.md",
+    "01_NPCiary/Organizations/Guilds/Shipwrights_Guild/Index.md",
+    "01_NPCiary/Organizations/Kings_Court/Captain Mahaxara Khal.md",
+    "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
+    "01_NPCiary/Organizations/The_UnderBarons/Index.md",
+    "01_NPCiary/Organizations/The_UnderBarons/Meredin_Sandyfoot.md",
+    "01_NPCiary/Organizations/The_UnderBarons/Ozamata.md",
+    "01_NPCiary/Organizations/The_UnderBarons/The_Juggler.md",
+    "01_NPCiary/Organizations/The_UnderBarons/The_Unknowable_One.md",
+    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Leinol.md",
+    "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/Old_Balic.md",
+    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Negin_Lighthopper.md",
+    "01_NPCiary/The_Rock_of_Bral/2_The_Middle_City/the_laughing_octopus",
+    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Blind Man.md",
+    "06_Handouts/Spelljammer/New PC Weapons.md",
+    "06_Handouts/Session Notes",
     "00_DM/DM-Dan/Handouts/Capture.png",
     "00_DM/DM-Dan/Handouts/strikinghawk-02.png",
     "00_DM/DM-Dan/RULES/Stealth Chart.jpg",
-    "00_DM/DM-Dan/Combat/Racing Combat.md",
-    "00_DM/DM-Dan/Combat/Random Encounters.md",
-    "00_DM/DM-Dan/SpellJammer/Notes/On Travel.md",
-    "00_DM/DM-Dan/SpellJammer/Notes/Generate Planet.md",
-    "00_DM/DM-Dan/SpellJammer/Notes/avere guide.md",
     "00_DM/DM-Dan/RULES/D&D Shop Catalog v_1_1.pdf",
-    "06_Handouts/Ship Pics/Clipper.md",
-    "06_Handouts/Ship Pics/Dragonfly.md",
-    "06_Handouts/Ship Pics/Galleon.md",
-    "06_Handouts/Ship Pics/Hammership.md",
     "00_DM/DM-Dan/Handouts",
     "00_DM/DM-Dan/RULES",
     "00_DM/DM-Dan/RANDOM",
@@ -195,11 +199,8 @@
     "00_DM/DM-Dan/Combat/Pasted image 20230522141021.png",
     "00_DM/DM-Dan/Combat/Pasted image 20230522141005.png",
     "00_DM/DM-Dan/Combat",
-    "00_DM/DM-Dan/Capture 1.png",
     "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/asdf",
     "01_NPCiary/Organizations/The Baguette Boys",
-    "00_DM/DM-Dan",
-    "00_DM/PowerToysSetup-0.69.1-x64.exe",
-    "00_DM/dtrpg-2023-05-15_11-48am.zip"
+    "00_DM/DM-Dan"
   ]
 }
