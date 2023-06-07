@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87fe21c29fc0e1b2",
+        "id": "fc3341047a2e63a3",
         "type": "tabs",
         "children": [
           {
-            "id": "53516a150cc33bec",
+            "id": "19bf40d5052986c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Birds_Bonds_and_Brews.md",
+                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 256.5
   },
   "right": {
     "id": "810339b29b9265d4",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Birds_Bonds_and_Brews.md",
+                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Birds_Bonds_and_Brews.md",
+                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Birds_Bonds_and_Brews.md"
+                "file": "00_DM/DM-Dan/RANDOM/Brass Knuckle.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,53 +154,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53516a150cc33bec",
+  "active": "19bf40d5052986c4",
   "lastOpenFiles": [
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Dals_Locks_and_Keys.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Birds_Bonds_and_Brews.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/The_Raised_Cup.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/Balics_Blades.md",
-    "01_NPCiary/Organizations/The Baguette Boys/test.md",
-    "00_DM/DM-Dan/session notes.md",
-    "03_The_Universe/Realmspace/The_Rock_of_Bral/Index.md",
-    "01_NPCiary/Organizations/Guilds/Jugglers_Guild/Index.md",
-    "01_NPCiary/Organizations/Guilds/Thieves_Guild/Index.md",
-    "01_NPCiary/Organizations/Guilds/Shipwrights_Guild/Index.md",
-    "01_NPCiary/Organizations/Guilds/Red_Mask_Guild/Index.md",
-    "01_NPCiary/Organizations/Kings_Court/Proconsul Gadaric Main.md",
-    "01_NPCiary/Organizations/Kings_Court/Index.md",
-    "01_NPCiary/Organizations/Kings_Court/Captain Mahaxara Khal.md",
-    "01_NPCiary/Organizations/Prismatic_Order_of_Thought/Index.md",
-    "01_NPCiary/Organizations/Prismatic_Order_of_Thought/Jasson_and_Wallace.md",
-    "01_NPCiary/Organizations/The_UnderBarons/Meredin_Sandyfoot.md",
-    "01_NPCiary/Organizations/The_UnderBarons/Ozamata.md",
-    "01_NPCiary/Organizations/The_UnderBarons/The_Juggler.md",
-    "01_NPCiary/Organizations/The_UnderBarons/The_Unknowable_One.md",
-    "01_NPCiary/Organizations/The_UnderBarons/Index.md",
-    "06_Handouts/Key Items/Orrey of the Wanderer.md",
+    "00_DM/DM-Dan/Opening Night.md",
+    "00_DM/DM-Dan/Metal Room.md",
+    "00_DM/DM-Dan/Links.md",
+    "00_DM/DM-Dan/CORPSES.md",
+    "00_DM/DM-Dan/Bounty List.md",
+    "00_DM/DM-Dan/PC Notes.md",
+    "00_DM/DM-Dan/ships.md",
+    "00_DM/DM-Dan/BBB.md",
+    "00_DM/DM-Dan/RANDOM/City Encounters.md",
+    "00_DM/DM-Dan/RANDOM/Random Oracular  Pronouncements.md",
+    "00_DM/DM-Dan/RANDOM/Omens.md",
+    "00_DM/DM-Dan/RANDOM/Easy Riddles.md",
+    "00_DM/DM-Dan/RANDOM/Crew Tasks.md",
+    "00_DM/DM-Dan/RANDOM/Commodore Krux.md",
+    "00_DM/DM-Dan/RANDOM/Carpet Jargon.md",
+    "00_DM/DM-Dan/RANDOM/Brass Knuckle.md",
+    "00_DM/DM-Dan/Handouts/Capture.png",
+    "00_DM/DM-Dan/Handouts/strikinghawk-02.png",
+    "00_DM/DM-Dan/RULES/Stealth Chart.jpg",
+    "00_DM/DM-Dan/Combat/Racing Combat.md",
+    "00_DM/DM-Dan/Combat/Random Encounters.md",
+    "00_DM/DM-Dan/SpellJammer/Notes/On Travel.md",
+    "00_DM/DM-Dan/SpellJammer/Notes/Generate Planet.md",
+    "00_DM/DM-Dan/SpellJammer/Notes/avere guide.md",
+    "00_DM/DM-Dan/RULES/D&D Shop Catalog v_1_1.pdf",
+    "06_Handouts/Ship Pics/Clipper.md",
+    "06_Handouts/Ship Pics/Dragonfly.md",
+    "06_Handouts/Ship Pics/Galleon.md",
+    "06_Handouts/Ship Pics/Hammership.md",
+    "00_DM/DM-Dan/Handouts",
+    "00_DM/DM-Dan/RULES",
+    "00_DM/DM-Dan/RANDOM",
+    "00_DM/DM-Dan/Combat/stat-block-header-bar.svg",
+    "00_DM/DM-Dan/Combat/Pasted image 20230522141130.png",
+    "00_DM/DM-Dan/Combat/Pasted image 20230522141110.png",
+    "00_DM/DM-Dan/Combat/Pasted image 20230522141048.png",
+    "00_DM/DM-Dan/Combat/Pasted image 20230522141021.png",
+    "00_DM/DM-Dan/Combat/Pasted image 20230522141005.png",
+    "00_DM/DM-Dan/Combat",
+    "00_DM/DM-Dan/Capture 1.png",
     "03_The_Universe/Realmspace/The_Rock_of_Bral/2_The_Middle_City/asdf",
-    "02_Player_Characters/Pobis_Boltfull.md",
     "01_NPCiary/Organizations/The Baguette Boys",
-    "02_Player_Characters/Randy_Randleman.md",
-    "02_Player_Characters/Deekeek_Hiqui.md",
-    "02_Player_Characters/Dork_Shotazit.md",
     "00_DM/DM-Dan",
-    "00_DM/strikinghawk-02.png",
-    "00_DM/Stealth Chart.jpg",
     "00_DM/PowerToysSetup-0.69.1-x64.exe",
-    "00_DM/dtrpg-2023-05-15_11-48am.zip",
-    "00_DM/dtrpg-2023-05-15_11-46am.zip",
-    "00_DM/drive-download-20230515T165253Z-001.zip",
-    "00_DM/dmg-2023-05-15_12-10pm.zip",
-    "00_DM/D&D Shop Catalog v_1_1.pdf",
-    "00_DM/Capture.png",
-    "00_DM/Capture 1.png",
-    "00_DM/SpellJammer/Monsters/attachments/Pasted image 20230206104013.png",
-    "00_DM/SpellJammer/Monsters/attachments/Pasted image 20230123141736.png",
-    "00_DM/SpellJammer/Monsters/attachments/Pasted image 20230123144959.png",
-    "00_DM/SpellJammer/Monsters/attachments",
-    "00_DM/dnd-DM/SpellJammer/Monsters/attachments/Pasted image 20230206104013.png",
-    "00_DM/dnd-DM/SpellJammer/Monsters/attachments/Pasted image 20230123144959.png",
-    "00_DM/dnd-DM/SpellJammer/Monsters/attachments/Pasted image 20230123141736.png"
+    "00_DM/dtrpg-2023-05-15_11-48am.zip"
   ]
 }
