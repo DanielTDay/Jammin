@@ -1,1 +1,0 @@
-![](attachments/wasp.jpg)
