@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "db4478f76a799a2d",
+        "id": "9d1781c9d96cfd30",
         "type": "tabs",
         "children": [
           {
-            "id": "83bf276bf49470e1",
+            "id": "014937d95aced16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "00_DM/DM-Dan/SpellJammer/Session Plans/7-3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f243d354b85ed57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_DM/DM-Dan/Untitled 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "00_DM/DM-Dan/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "00_DM/DM-Dan/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "00_DM/DM-Dan/Untitled 1.md"
               }
             }
           },
@@ -143,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,41 +169,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83bf276bf49470e1",
+  "active": "f243d354b85ed57c",
   "lastOpenFiles": [
-    "06_Handouts/Items/Orrey of the Wanderer.md",
-    "06_Handouts/Papers/The Yellow Sign.md",
-    "06_Handouts/Papers/Refuge/Statue.md",
-    "06_Handouts/Papers/Refuge/Statue Note.md",
-    "06_Handouts/Papers/Refuge/Helpington.md",
-    "06_Handouts/Papers/Carcosa Pamphlet.md",
-    "06_Handouts/Papers/Refuge/Mine Note.md",
+    "00_DM/DM-Dan/SpellJammer/Session Plans/7-3.md",
+    "00_DM/DM-Dan/Untitled 1.md",
+    "00_DM/DM-Dan/Bounty List.md",
+    "00_DM/DM-Dan/SpellJammer/Session Plans/6-12.md",
+    "00_DM/DM-Dan/SpellJammer/Session Plans/046-map-6.02-dms-map.webp",
+    "00_DM/DM-Dan/SpellJammer/Session Plans/Untitled.md",
+    "00_DM/DM-Dan/Metal Room.md",
+    "00_DM/DM-Dan/Links.md",
+    "00_DM/DM-Dan/CORPSES.md",
+    "00_DM/DM-Dan/BBB.md",
+    "05_Your_Ship/The Genocide.md",
+    "05_Your_Ship/Untitled.md",
+    "05_Your_Ship/Response.md",
+    "05_Your_Ship/Ship Information/Ship Weapons.md",
+    "05_Your_Ship/Ship Information/Ship Upgrades.md",
+    "05_Your_Ship/Ship Information/Ship Mods.md",
+    "00_DM/DM-Dan/ships.md",
+    "05_Your_Ship/Ship Information/Crew.md",
+    "05_Your_Ship/Ship Information/Combat/Mega Spells.md",
+    "06_Handouts/Recaps/(05) 6-12-23.md",
+    "06_Handouts/Recaps/(04) 6-5-23.md",
+    "06_Handouts/Recaps/(03) 5-22-23.md",
+    "06_Handouts/Recaps/(02) 5-15-23.md",
+    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Grinder.md",
+    "01_NPCiary/The_Rock_of_Bral/1_The_Low_City/Leinol.md",
+    "01_NPCiary/The_Rock_of_Bral/3_The_High_City/Kiria Evensong.md",
+    "01_NPCiary/The_Rock_of_Bral/3_The_High_City/Prince Andru.md",
+    "03_The_Universe/attachments/flowmap.jpg",
+    "03_The_Universe/Rhymespace",
     "06_Handouts/Papers/Refuge/Untitled",
     "06_Handouts/Papers/Refuge",
     "06_Handouts/Papers/attachments/The_Yellow_Sign.webp",
-    "06_Handouts/Notes/Blind Man Yelling.md",
-    "06_Handouts/Items/Other/White Cowboy Hat.md",
-    "06_Handouts/Items/Other/Black Cowboy Hat.md",
-    "06_Handouts/Items/Other/Chance Lance.md",
-    "06_Handouts/Items/Other/Model Train.md",
-    "06_Handouts/Items/Other/Sheriff's Holster.md",
-    "06_Handouts/Items/Relics/The Chronolometer.md",
     "06_Handouts/Items/Other",
-    "06_Handouts/Items/Relics/The Wheel of Stars.md",
-    "06_Handouts/Items/Relics/The Timepiece of Travel.md",
-    "06_Handouts/Items/Relics/The Rotor of Return.md",
-    "06_Handouts/Items/Relics/The Far Gear.md",
-    "06_Handouts/Items/Relics/The Dimensional Loop.md",
     "06_Handouts/Items/Relics",
-    "06_Handouts/Papers/Pirate Bounties.md",
-    "00_DM/DM-Dan/Bounty List.md",
-    "06_Handouts/Papers/Letters of Marque.md",
     "06_Handouts/Items",
     "06_Handouts/Items/Items",
-    "06_Handouts/Untitled.md",
-    "06_Handouts/Recaps/(03) 5-22-23.md",
-    "05_Your_Ship/Ship Information/Combat/Bridge Crew Roles/Boatswain.md",
-    "05_Your_Ship/Ship Information/Combat/Bridge Crew Roles/Captain.md",
     "05_Your_Ship/attachments/current_ship.png",
     "05_Your_Ship/attachments/theship.pdf",
     "05_Your_Ship/attachments/Boatswain.png",
@@ -198,9 +216,6 @@
     "05_Your_Ship/attachments/shipheading.png",
     "05_Your_Ship/Ship Pics/attachments/ships.png",
     "05_Your_Ship/Ship Pics/ships",
-    "06_Handouts/Spelljammer Info/attachments/AirEnvelopeGravityPlane-5e.webp",
-    "06_Handouts/Spelljammer Info/attachments",
-    "06_Handouts/Notes",
-    "06_Handouts/Papers/attachments/Carcosa_Theater.png"
+    "06_Handouts/Spelljammer Info/attachments"
   ]
 }

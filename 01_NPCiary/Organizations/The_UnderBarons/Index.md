@@ -1,3 +1,0 @@
-Four underbarons, each one equivalent to the master of a thieves’ guild, compete among themselves for greater shares of influence and income in the city. Despite their status as lords of criminal fiefdoms, the underbarons enjoy the prince’s tolerance, if only because each one’s existence serves as a check against the others.
- 
-The businesses in any given area of the city operate under the protection of one of the underbarons. That service is paid for through the collection of “insurance” fees. The arrangement isn’t strictly extortion, because it’s common for an underbaron to reimburse clients who suffer losses because of a rival guild’s actions.
